@@ -59,10 +59,64 @@
           "title": "- انرژی را بهتر مصرف کنیم"
         }
       ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "فصل پنجم: پیشرفت علوم و فنون در دوره ی اسالمی",
+      "lessons": []
+    },
+    {
+      "chapter_number": 6,
+      "title": "فصل ششم: سفری به اصفهان",
+      "lessons": []
+    },
+    {
+      "chapter_number": 7,
+      "title": "فصل هفتم: اوقات فراغت",
+      "lessons": []
+    },
+    {
+      "chapter_number": 8,
+      "title": "فصل هشتم: پوشاک ما",
+      "lessons": []
+    },
+    {
+      "chapter_number": 9,
+      "title": "فصل نهم: دریاهای ایران",
+      "lessons": []
+    },
+    {
+      "chapter_number": 10,
+      "title": "فصل دهم: ایران و همسایگان",
+      "lessons": []
+    },
+    {
+      "chapter_number": 11,
+      "title": "فصل یازدهم: ایستادگی در برابر بیگانگان",
+      "lessons": []
+    },
+    {
+      "chapter_number": 12,
+      "title": "فصل دوازدهم: آزادی خرّمشهر",
+      "lessons": []
+    },
+    {
+      "chapter_number": null,
+      "title": "فصل اوّل",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس ۱"
+        },
+        {
+          "lesson_number": 2,
+          "title": "فعّالیت ۱"
+        }
+      ]
     }
   ],
   "front_matter": [],
   "back_matter": [],
-  "toc_pages": 1,
+  "toc_pages": 6,
   "extraction_method": "text"
 }

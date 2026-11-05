@@ -220,12 +220,24 @@
         {
           "lesson_number": 11,
           "title": "درس ۲ ــ احتمال غیر هم شانس ............................ ۴۴."
+        },
+        {
+          "lesson_number": 12,
+          "title": "در پایان، از همهٔ همکاران، کارشناسان و دبیران محترم تقاضا داریم ما را از نظرات و پیشنهادات سازندهٔ خویش، بهره مند نموده و از طریق سایت ۱"
+        },
+        {
+          "lesson_number": 13,
+          "title": "www.mathrde.ir ــ۱"
+        },
+        {
+          "lesson_number": 14,
+          "title": "gmail.com @ Mathrde ــ ۲"
         }
       ]
     }
   ],
   "front_matter": [],
   "back_matter": [],
-  "toc_pages": 1,
+  "toc_pages": 2,
   "extraction_method": "text"
 }

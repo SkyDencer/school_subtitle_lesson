@@ -112,6 +112,46 @@
           "title": "مرور فصل ۵"
         }
       ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "فصل ۶ ــ سطح و حجم",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "مرور فصل ۶"
+        }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "title": "فصل ۷ ــ توان و جذر",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "مرور فصل ۷"
+        }
+      ]
+    },
+    {
+      "chapter_number": 8,
+      "title": "فصل ۸ ــ بردار و مختصات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "مرورفصل ۸"
+        }
+      ]
+    },
+    {
+      "chapter_number": 9,
+      "title": "فصل ۹ ــ آمار و احتمال",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "مرور فصل ۹"
+        }
+      ]
     }
   ],
   "front_matter": [
@@ -120,6 +160,6 @@
     }
   ],
   "back_matter": [],
-  "toc_pages": 1,
+  "toc_pages": 2,
   "extraction_method": "text"
 }

@@ -138,26 +138,22 @@
       "lessons": [
         {
           "lesson_number": 1,
-          "title": "۸ درس دهم: بانگ جَرَس"
+          "title": "کارگاه متن پژوهی"
         },
         {
           "lesson_number": 2,
-          "title": "کارگاه متن پژوهی"
-        },
-        {
-          "lesson_number": 3,
           "title": "گنج حکمت: به یاد ۲۲ بهمن"
         },
         {
-          "lesson_number": 4,
+          "lesson_number": 3,
           "title": "درس یازدهم: یاران عاشق"
         },
         {
-          "lesson_number": 5,
+          "lesson_number": 4,
           "title": "کارگاه متن پژوهی"
         },
         {
-          "lesson_number": 6,
+          "lesson_number": 5,
           "title": "شعرخوانی: صبح بی تو"
         }
       ]
@@ -244,22 +240,18 @@
         },
         {
           "lesson_number": 3,
-          "title": "گنج حكمت: تجسّم عشق"
-        },
-        {
-          "lesson_number": 4,
           "title": "درس هجدهم: خوان عدل"
         },
         {
-          "lesson_number": 5,
+          "lesson_number": 4,
           "title": "کارگاه متن پژوهی"
         },
         {
-          "lesson_number": 6,
+          "lesson_number": 5,
           "title": "روان خوانی: آذرباد"
         },
         {
-          "lesson_number": 7,
+          "lesson_number": 6,
           "title": "کتابنامه"
         }
       ]

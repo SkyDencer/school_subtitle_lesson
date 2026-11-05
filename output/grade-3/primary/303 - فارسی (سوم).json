@@ -26,7 +26,7 @@
         },
         {
           "lesson_number": 5,
-          "title": "و لحظه‌ی سبز دعا"
+          "title": "و لحظه‌ی سبز دعا ۳"
         },
         {
           "lesson_number": 6,
@@ -50,7 +50,7 @@
         },
         {
           "lesson_number": 11,
-          "title": "۱ پنجم: هنر و ادب"
+          "title": "۱ پنجم: هنر و ادب ۸"
         },
         {
           "lesson_number": 12,
@@ -83,13 +83,24 @@
         {
           "lesson_number": 19,
           "title": "۱ ات"
+        },
+        {
+          "lesson_number": 20,
+          "title": "درسی فارسی دوره‌ی ابتدایی» تألیف و سازماندهی شده است."
+        },
+        {
+          "lesson_number": 21,
+          "title": "بیندیش» «مَثل» و «حکایت» طراحی و سازماندهی شده است. ۱"
         }
       ]
     }
   ],
   "front_matter": [
     {
-      "title": "۱ ۱ فصل سوم:"
+      "title": "۱ ۳"
+    },
+    {
+      "title": "۱ ۱ فصل سوم: ۳"
     },
     {
       "title": "۱ اخلاق \"۳ فردی س اجتماعی درس دوازدهم: ایران"
@@ -123,6 +134,6 @@
     }
   ],
   "back_matter": [],
-  "toc_pages": 1,
+  "toc_pages": 3,
   "extraction_method": "ocr"
 }

@@ -47,12 +47,16 @@
         {
           "lesson_number": 10,
           "title": "درس دهم در کنار سفره ..................... ۴۴"
+        },
+        {
+          "lesson_number": 11,
+          "title": "درس"
         }
       ]
     }
   ],
   "front_matter": [],
   "back_matter": [],
-  "toc_pages": 2,
+  "toc_pages": 3,
   "extraction_method": "text"
 }

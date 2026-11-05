@@ -141,12 +141,16 @@
         {
           "lesson_number": 3,
           "title": "ارتباط و زندگی گروهی"
+        },
+        {
+          "lesson_number": 4,
+          "title": "کتاب های علوم تجربی ادامه یافت و با کتاب زیست پایه دهم به دوره دوم متوسطه رسید .۱"
         }
       ]
     }
   ],
   "front_matter": [],
   "back_matter": [],
-  "toc_pages": 1,
+  "toc_pages": 2,
   "extraction_method": "text"
 }

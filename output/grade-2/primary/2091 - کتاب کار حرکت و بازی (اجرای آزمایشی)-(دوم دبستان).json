@@ -103,12 +103,16 @@
         {
           "lesson_number": 24,
           "title": "ض"
+        },
+        {
+          "lesson_number": 25,
+          "title": ":۱"
         }
       ]
     }
   ],
   "front_matter": [],
   "back_matter": [],
-  "toc_pages": 1,
+  "toc_pages": 2,
   "extraction_method": "text"
 }

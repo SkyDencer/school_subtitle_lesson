@@ -87,12 +87,16 @@
         {
           "lesson_number": 20,
           "title": "۶ | کتابچه راهنمای اولیا"
+        },
+        {
+          "lesson_number": 21,
+          "title": "تابچه راهنمای اولیا | ۷"
         }
       ]
     }
   ],
   "front_matter": [],
   "back_matter": [],
-  "toc_pages": 1,
+  "toc_pages": 2,
   "extraction_method": "ocr"
 }

@@ -83,13 +83,17 @@
         {
           "lesson_number": 11,
           "title": "سوم"
+        },
+        {
+          "lesson_number": 12,
+          "title": "خصل دوم؟ ۱"
         }
       ]
     }
   ],
   "front_matter": [
     {
-      "title": "۳ خت"
+      "title": "۳ خت ۴ ۳"
     },
     {
       "title": "آموزکار عزیز"
@@ -111,6 +115,6 @@
     }
   ],
   "back_matter": [],
-  "toc_pages": 1,
+  "toc_pages": 2,
   "extraction_method": "ocr"
 }

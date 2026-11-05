@@ -54,45 +54,33 @@
         },
         {
           "lesson_number": 12,
-          "title": "آداب زندگی"
-        },
-        {
-          "lesson_number": 13,
-          "title": "راه تندرستی"
-        },
-        {
-          "lesson_number": 14,
           "title": "درس هفتم"
         },
         {
-          "lesson_number": 15,
-          "title": "راز موفّقیت"
-        },
-        {
-          "lesson_number": 16,
+          "lesson_number": 13,
           "title": "درس هشتم"
         },
         {
-          "lesson_number": 17,
-          "title": "حماسه آفرینان جاودان"
-        },
-        {
-          "lesson_number": 18,
+          "lesson_number": 14,
           "title": "درس نهم"
         },
         {
-          "lesson_number": 19,
-          "title": "دانش‌آموز نمونه"
+          "lesson_number": 15,
+          "title": "درس دهم"
         },
         {
-          "lesson_number": 20,
-          "title": "درس دهم"
+          "lesson_number": 16,
+          "title": "ــ مراجعه به راهنمای معلّم برای تدریس این کتاب ضروری است .۳"
         }
       ]
     }
   ],
   "front_matter": [],
-  "back_matter": [],
-  "toc_pages": 2,
+  "back_matter": [
+    {
+      "title": "نیایش"
+    }
+  ],
+  "toc_pages": 5,
   "extraction_method": "text"
 }

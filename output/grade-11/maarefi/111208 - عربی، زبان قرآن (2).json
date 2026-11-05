@@ -91,6 +91,10 @@
         {
           "lesson_number": 21,
           "title": "الف"
+        },
+        {
+          "lesson_number": 22,
+          "title": "درس دوازدهم به آموزش یکی دیگر از تقسیامت فعل از نظر نوع حروف اصلی (ریشه)"
         }
       ]
     }
@@ -101,6 +105,6 @@
     }
   ],
   "back_matter": [],
-  "toc_pages": 1,
+  "toc_pages": 2,
   "extraction_method": "text"
 }

@@ -43,12 +43,20 @@
         {
           "lesson_number": 9,
           "title": "سفر دوم: من تنها نیستم!"
+        },
+        {
+          "lesson_number": 10,
+          "title": "سرزمین‌قصّه ها ۴"
+        },
+        {
+          "lesson_number": 11,
+          "title": "سرزمین‌قصّه ها ۵"
         }
       ]
     }
   ],
   "front_matter": [],
   "back_matter": [],
-  "toc_pages": 1,
+  "toc_pages": 2,
   "extraction_method": "text"
 }

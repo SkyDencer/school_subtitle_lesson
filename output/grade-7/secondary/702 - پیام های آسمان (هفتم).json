@@ -96,65 +96,45 @@
         },
         {
           "lesson_number": 3,
-          "title": "آرامش باران"
-        },
-        {
-          "lesson_number": 4,
-          "title": "افتخار بندگی"
-        },
-        {
-          "lesson_number": 5,
           "title": "درس سیزدهم"
         },
         {
-          "lesson_number": 6,
+          "lesson_number": 4,
           "title": "درس نهم"
         },
         {
-          "lesson_number": 7,
-          "title": "بر بال فرشتگان"
-        },
-        {
-          "lesson_number": 8,
-          "title": "به سوی پاکی"
-        },
-        {
-          "lesson_number": 9,
+          "lesson_number": 5,
           "title": "درس چهاردهم"
         },
         {
-          "lesson_number": 10,
+          "lesson_number": 6,
           "title": "درس دهم"
         },
         {
-          "lesson_number": 11,
-          "title": "کمال هم نشین"
-        },
-        {
-          "lesson_number": 12,
-          "title": "ستون دین"
-        },
-        {
-          "lesson_number": 13,
+          "lesson_number": 7,
           "title": "درس پانزدهم"
         },
         {
-          "lesson_number": 14,
+          "lesson_number": 8,
           "title": "درس یازدهم"
         },
         {
-          "lesson_number": 15,
-          "title": "مزدوران شیطان"
+          "lesson_number": 9,
+          "title": "ـ وسائل الشیعه، ج ۱۶ ، ص .۱۵۰"
         },
         {
-          "lesson_number": 16,
-          "title": "نماز جماعت"
+          "lesson_number": 10,
+          "title": "ـ کافی، ج ۵ ، ص ۲۸ ؛ المستدرک علی الصحیحین، ج ۳، صص ۳ ۶۵ و ۱۹ .۶"
+        },
+        {
+          "lesson_number": 11,
+          "title": "درسی از همکاران انتظار دارد همواره این شیوه نامه را مدنظر قرار داده و مطابق آن،"
         }
       ]
     }
   ],
   "front_matter": [],
   "back_matter": [],
-  "toc_pages": 2,
+  "toc_pages": 4,
   "extraction_method": "text"
 }

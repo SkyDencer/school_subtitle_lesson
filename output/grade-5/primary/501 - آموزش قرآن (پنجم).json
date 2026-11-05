@@ -99,12 +99,68 @@
         {
           "lesson_number": 23,
           "title": "خواندن روزانه ی قرآن، سوره ی مائده ۵۶(ــ)۵۴"
+        },
+        {
+          "lesson_number": 24,
+          "title": "۴۱-۴۸"
+        },
+        {
+          "lesson_number": 25,
+          "title": "خواندن روزانه ی قرآن، سوره ی بقره ۲۶۵(ــ)۲۶۴"
+        },
+        {
+          "lesson_number": 26,
+          "title": "۴۹-۵۴"
+        },
+        {
+          "lesson_number": 27,
+          "title": "خواندن روزانه ی قرآن، سوره ی توبه ۱۱۲(ــ)۱۱۱"
+        },
+        {
+          "lesson_number": 28,
+          "title": "۵۵-۶۰"
+        },
+        {
+          "lesson_number": 29,
+          "title": "خواندن روزانه ی قرآن، سوره ی نحل ۱۲۸(ــ)۱۲۵"
+        },
+        {
+          "lesson_number": 30,
+          "title": "۶۱-۶۶"
+        },
+        {
+          "lesson_number": 31,
+          "title": "۶۷-۷۴"
+        },
+        {
+          "lesson_number": 32,
+          "title": "خواندن روزانه ی قرآن، سوره ی یونس ۹۳(ــ)۹۰"
+        },
+        {
+          "lesson_number": 33,
+          "title": "۷۵-۸۱"
+        },
+        {
+          "lesson_number": 34,
+          "title": "سوره ی فرقان ۶۷(ــ)۶۳"
+        },
+        {
+          "lesson_number": 35,
+          "title": "خواندن روزانه ی قرآن، سوره ی فرقان ۷۷(ــ)۷۲"
+        },
+        {
+          "lesson_number": 36,
+          "title": "۸۲-۹۴"
+        },
+        {
+          "lesson_number": 37,
+          "title": "۹۵-۹۸"
         }
       ]
     }
   ],
   "front_matter": [],
   "back_matter": [],
-  "toc_pages": 1,
+  "toc_pages": 2,
   "extraction_method": "text"
 }

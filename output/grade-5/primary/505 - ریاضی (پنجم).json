@@ -77,10 +77,30 @@
           "title": "درصد"
         }
       ]
+    },
+    {
+      "chapter_number": null,
+      "title": "فصل:۴ تقارن و چندضلعی ها",
+      "lessons": []
+    },
+    {
+      "chapter_number": null,
+      "title": "فصل:۵ عددهای اعشاری",
+      "lessons": []
+    },
+    {
+      "chapter_number": null,
+      "title": "فصل:۶ اندازه گیری",
+      "lessons": []
+    },
+    {
+      "chapter_number": null,
+      "title": "فصل:۷ آمار و احتمال",
+      "lessons": []
     }
   ],
   "front_matter": [],
   "back_matter": [],
-  "toc_pages": 1,
+  "toc_pages": 2,
   "extraction_method": "text"
 }

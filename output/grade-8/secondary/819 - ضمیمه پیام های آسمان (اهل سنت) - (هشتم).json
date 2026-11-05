@@ -27,12 +27,40 @@
         {
           "lesson_number": 5,
           "title": "نظرسنجی کتاب درسی"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس ۱"
+        },
+        {
+          "lesson_number": 7,
+          "title": "ــ سورهٔ آل عمران، آیه ۱۶۴"
+        },
+        {
+          "lesson_number": 8,
+          "title": "ــ دوستی دیرینهٔ ابوبکر (‌رضی‌اللّٰه عنه) با پیامبر پیش و پس از اسالم، قرآن از این دوستی یاد‌می کند ۱."
+        },
+        {
+          "lesson_number": 9,
+          "title": "ایمان را، نزدیکان و مقربان خداوند‌می داند ۲."
+        },
+        {
+          "lesson_number": 10,
+          "title": "سورهٔ توبه، ٔ۱ــ آیه .۴۰"
+        },
+        {
+          "lesson_number": 11,
+          "title": "۲ــ سورهٔ واقعه،‌آیه های ۱۰ ــ .۱۱"
+        },
+        {
+          "lesson_number": 12,
+          "title": "ــ سیرهٔ ابن هشام، ج ۲ ، ص .۵۴۳"
         }
       ]
     }
   ],
   "front_matter": [],
   "back_matter": [],
-  "toc_pages": 1,
+  "toc_pages": 3,
   "extraction_method": "text"
 }

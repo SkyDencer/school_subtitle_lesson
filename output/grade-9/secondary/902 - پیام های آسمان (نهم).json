@@ -74,30 +74,14 @@
         },
         {
           "lesson_number": 3,
-          "title": "انقالب اسالمی ایران"
-        },
-        {
-          "lesson_number": 4,
-          "title": "وضو، غسل و تیمم"
-        },
-        {
-          "lesson_number": 5,
           "title": "درس دهم"
         },
         {
-          "lesson_number": 6,
+          "lesson_number": 4,
           "title": "درس هفتم"
         },
         {
-          "lesson_number": 7,
-          "title": "مسئولیت همگانی"
-        },
-        {
-          "lesson_number": 8,
-          "title": "احکام نماز"
-        },
-        {
-          "lesson_number": 9,
+          "lesson_number": 5,
           "title": "درس یازدهم"
         }
       ]
@@ -108,23 +92,11 @@
       "lessons": [
         {
           "lesson_number": 1,
-          "title": "انفاق"
-        },
-        {
-          "lesson_number": 2,
           "title": "درس دوازدهم"
         },
         {
-          "lesson_number": 3,
+          "lesson_number": 2,
           "title": "درس هشتم"
-        },
-        {
-          "lesson_number": 4,
-          "title": "جهاد"
-        },
-        {
-          "lesson_number": 5,
-          "title": "همدلی و همراهی"
         }
       ]
     }

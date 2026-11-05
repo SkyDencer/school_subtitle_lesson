@@ -93,6 +93,22 @@
         {
           "lesson_number": 5,
           "title": "منابع"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درسی زبان و ادبیات فارسی در نظام آموزشی ایران اسالمی ،برنامة"
+        },
+        {
+          "lesson_number": 7,
+          "title": "درس یکم: تاریخ ادبیات و سبک شناسی؛"
+        },
+        {
+          "lesson_number": 8,
+          "title": "درس دوم: موسیقی شعر (عروض) ؛"
+        },
+        {
+          "lesson_number": 9,
+          "title": "درس سوم: زیبایی شناسی شعر و نثر (آرایه های ادبی .)"
         }
       ]
     }
@@ -110,7 +126,7 @@
       "title": "نیایش"
     }
   ],
-  "toc_pages": 1,
+  "toc_pages": 3,
   "extraction_method": "text",
   "shared_across": [
     "ensani",

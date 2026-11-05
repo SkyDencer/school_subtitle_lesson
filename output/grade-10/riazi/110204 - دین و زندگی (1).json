@@ -39,13 +39,33 @@
         {
           "lesson_number": 8,
           "title": "درس هفتم: فرجام کار"
+        },
+        {
+          "lesson_number": 9,
+          "title": "درس نهم: اعتماد بر او"
+        },
+        {
+          "lesson_number": 10,
+          "title": "درس هشتم: آهنگ سفر"
+        },
+        {
+          "lesson_number": 11,
+          "title": "درس دهم: یاری از دو یار عزیز"
+        },
+        {
+          "lesson_number": 12,
+          "title": "درس یازدهم: فضیلت آراستگی"
+        },
+        {
+          "lesson_number": 13,
+          "title": "درس دوازدهم: پیام پوشیدگی"
         }
       ]
     }
   ],
   "front_matter": [],
   "back_matter": [],
-  "toc_pages": 1,
+  "toc_pages": 2,
   "extraction_method": "text",
   "shared_across": [
     "riazi",

@@ -121,11 +121,179 @@
           "title": "فرسایش ۵۴"
         }
       ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "فصل چهارم: پویایی زمین ۵۹",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "چرخۀ ویلسون ۶۱"
+        },
+        {
+          "lesson_number": 2,
+          "title": "تنش ۶۲"
+        },
+        {
+          "lesson_number": 3,
+          "title": "موقعیت الیه ها ۶۲"
+        },
+        {
+          "lesson_number": 4,
+          "title": "شکستگی ها ۶۳"
+        },
+        {
+          "lesson_number": 5,
+          "title": "چین خوردگی ۶۴"
+        },
+        {
+          "lesson_number": 6,
+          "title": "آتش فشان ۶۶"
+        },
+        {
+          "lesson_number": 7,
+          "title": "فواید آتش فشان ها ۶۷"
+        },
+        {
+          "lesson_number": 8,
+          "title": "زمین لرزه ۶۸"
+        },
+        {
+          "lesson_number": 9,
+          "title": "امواج لرزه ای ۶۹"
+        },
+        {
+          "lesson_number": 10,
+          "title": "مقیاس اندازه گیری زمین لرزه ۷۱"
+        },
+        {
+          "lesson_number": 11,
+          "title": "پیش بینی زمین لرزه ۷۲"
+        },
+        {
+          "lesson_number": 12,
+          "title": "ایمنی در برابر زمین لرزه ۷۳"
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "فصل پنجم: زمین شناسی و سالمت ۷۷",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "زمین شناسی پزشکی ۷۸"
+        },
+        {
+          "lesson_number": 2,
+          "title": "چرخۀ بیوژئوشیمیایی ۷۹"
+        },
+        {
+          "lesson_number": 3,
+          "title": "تقسیم بندی بیوشیمیایی عناصر ۷۹"
+        },
+        {
+          "lesson_number": 4,
+          "title": "منشأ بیماری های زمین زاد ۸۲"
+        },
+        {
+          "lesson_number": 5,
+          "title": "اثرات توفان های گرد و غبار و ریزگردها ۸۸"
+        },
+        {
+          "lesson_number": 6,
+          "title": "کاربرد کانی ها در داروسازی و صنایع بهداشتی ۹۰"
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "فصل ششم: زمین شناسی و سازه های مهندسی ۹۳",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "مکان یابی سازه ها ۹۴"
+        },
+        {
+          "lesson_number": 2,
+          "title": "عوامل مؤثر بر مکان یابی سازه ها ۹۶"
+        },
+        {
+          "lesson_number": 3,
+          "title": "مکان مناسب برای ساخت سد ۱۰۱"
+        },
+        {
+          "lesson_number": 4,
+          "title": "مکان مناسب برای ساخت تونل و فضاهای زیرزمینی ۱۰۲"
+        },
+        {
+          "lesson_number": 5,
+          "title": "مکان یابی مناسب برای ساخت سازه های دریایی ۱۰۴"
+        },
+        {
+          "lesson_number": 6,
+          "title": "شاخص های مهندسی مصالح ۱۰۵"
+        },
+        {
+          "lesson_number": 7,
+          "title": "مصالح مورد نیاز برای احداث سازه ها ۱۰۵"
+        }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "title": "فصل هفتم: زمین شناسی ایران ۱۰۹",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "تاریخچۀ زمین شناسی ایران ۱۱۰"
+        },
+        {
+          "lesson_number": 2,
+          "title": "نقشه های زمین شناسی ۱۱۲"
+        },
+        {
+          "lesson_number": 3,
+          "title": "پهنه های زمین شناسی ایران ۱۱۳"
+        },
+        {
+          "lesson_number": 4,
+          "title": "منابع معدنی و ذخایر انرژی ایران ۱۱۵"
+        },
+        {
+          "lesson_number": 5,
+          "title": "ذخایر نفت و گاز ایران ۱۱۹"
+        },
+        {
+          "lesson_number": 6,
+          "title": "گسل های ایران ۱۲۱"
+        },
+        {
+          "lesson_number": 7,
+          "title": "آتش فشان های ایران ۱۲۲"
+        },
+        {
+          "lesson_number": 8,
+          "title": "زمین گردشگری ۱۲۲"
+        },
+        {
+          "lesson_number": 9,
+          "title": "ژئوپارک ۱۲۳"
+        },
+        {
+          "lesson_number": 10,
+          "title": "منابع ۱۲۷"
+        }
+      ]
     }
   ],
   "front_matter": [],
-  "back_matter": [],
-  "toc_pages": 1,
+  "back_matter": [
+    {
+      "title": "واژه نامه ۱۲۶"
+    }
+  ],
+  "toc_pages": 2,
   "extraction_method": "text",
   "shared_across": [
     "riazi",

@@ -75,12 +75,16 @@
         {
           "lesson_number": 17,
           "title": "درس هفدهم: بازی با هم، شادی باهم ۷۲...................."
+        },
+        {
+          "lesson_number": 18,
+          "title": "درس اوّل"
         }
       ]
     }
   ],
   "front_matter": [],
   "back_matter": [],
-  "toc_pages": 1,
+  "toc_pages": 2,
   "extraction_method": "text"
 }

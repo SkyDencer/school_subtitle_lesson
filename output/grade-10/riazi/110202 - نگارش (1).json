@@ -51,6 +51,46 @@
         {
           "lesson_number": 11,
           "title": "درس چهارم:‌نوشته های‌گزارش گونه"
+        },
+        {
+          "lesson_number": 12,
+          "title": "هنجار نوشتار ۴"
+        },
+        {
+          "lesson_number": 13,
+          "title": "درس پنجم: نوشتۀ ذهنی ۱() جانشین سازی"
+        },
+        {
+          "lesson_number": 14,
+          "title": "هنجار نوشتار ۵"
+        },
+        {
+          "lesson_number": 15,
+          "title": "درس ششم: نوشتۀ ذهنی ۲() سنجش و مقایسه ۸۶"
+        },
+        {
+          "lesson_number": 16,
+          "title": "هنجار نوشتار ۶"
+        },
+        {
+          "lesson_number": 17,
+          "title": "درس هفتم: نوشتۀ ذهنی ۳() ناسازی معنایی یا تضاد مفاهیم ۱۰۰"
+        },
+        {
+          "lesson_number": 18,
+          "title": "هنجار نوشتار ۷"
+        },
+        {
+          "lesson_number": 19,
+          "title": "درس هشتم: نوشته های‌داستان گونه ۱۱۲"
+        },
+        {
+          "lesson_number": 20,
+          "title": "هنجار نوشتار ۸"
+        },
+        {
+          "lesson_number": 21,
+          "title": "کتابنامه"
         }
       ]
     }
@@ -63,8 +103,12 @@
       "title": "ستایش"
     }
   ],
-  "back_matter": [],
-  "toc_pages": 1,
+  "back_matter": [
+    {
+      "title": "نیایش"
+    }
+  ],
+  "toc_pages": 2,
   "extraction_method": "text",
   "shared_across": [
     "riazi",

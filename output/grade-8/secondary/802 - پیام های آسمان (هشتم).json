@@ -85,10 +85,20 @@
           "title": "یک فرصت طالیی"
         }
       ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "فصل پنجم: اخالق",
+      "lessons": []
+    },
+    {
+      "chapter_number": 6,
+      "title": "فصل ششم: جامعه اسالمی",
+      "lessons": []
     }
   ],
   "front_matter": [],
   "back_matter": [],
-  "toc_pages": 1,
+  "toc_pages": 2,
   "extraction_method": "text"
 }

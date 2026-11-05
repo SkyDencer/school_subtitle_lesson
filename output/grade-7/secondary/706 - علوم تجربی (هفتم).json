@@ -97,6 +97,26 @@
     {
       "chapter_number": null,
       "title": "فصل پانزدهم ........................................ تبادل با محیط ............................................................................. ۱۳۲",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "سورۀ زمر، آیۀ ۹"
+        }
+      ]
+    },
+    {
+      "chapter_number": 1,
+      "title": "فصل ۱ . تفکر و تجربه",
+      "lessons": []
+    },
+    {
+      "chapter_number": 2,
+      "title": "فصل ۲ . اندازه گیری در علوم تجربی و ابزارهای آن",
+      "lessons": []
+    },
+    {
+      "chapter_number": 1,
+      "title": "فصل ۱",
       "lessons": []
     }
   ],
@@ -106,6 +126,6 @@
     }
   ],
   "back_matter": [],
-  "toc_pages": 1,
+  "toc_pages": 3,
   "extraction_method": "text"
 }

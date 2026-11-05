@@ -49,6 +49,8 @@ def main():
     import toc_extract as te
     st = json.load(open(STATE, encoding="utf-8"))
     books = json.load(open(INV, encoding="utf-8"))
+    old_stats = load_old_stats()
+    counters = {"regressed": 0, "improved": 0, "lessons_only": 0}
     done = 0; text_ok = 0; needs_ocr = 0; no_toc = 0; missing = 0
     for b in books:
         node = b["node"]
@@ -64,6 +66,8 @@ def main():
         status = res.get("status")
         if status == "success":
             b["toc_status"] = "success"; text_ok += 1
+            regression_check(str(b["book_code"]), res.get("n_chapters", 0),
+                             res.get("n_lessons", 0), old_stats, counters)
             log(f"{node} ({slug_for(b)}): TOC OK via text layer "
                 f"({res.get('n_chapters')} ch / {res.get('n_lessons')} lessons, p{res.get('toc_page')})")
         elif status == "no_text_layer":
@@ -80,8 +84,13 @@ def main():
     json.dump(books, open(INV, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     log(f"=== PHASE 2 SUMMARY === success={text_ok} needs_ocr={needs_ocr} "
         f"no_toc={no_toc} no_pdf={missing} already_done={done}")
+    log(f"=== PHASE 2 REGRESSION REPORT (vs output_old) === "
+        f"regressed={counters['regressed']} improved={counters['improved']} "
+        f"lessons_only_regressed={counters['lessons_only']}")
     print(f"\nPHASE 2 RESULT: text-layer OK={text_ok} needs_OCR={needs_ocr} "
           f"no_toc={no_toc} no_pdf={missing} already_done={done}")
+    print(f"PHASE 2 REGRESSION: regressed={counters['regressed']} "
+          f"improved={counters['improved']} lessons_only={counters['lessons_only']}")
     return 0
 
 def save(st):
@@ -96,6 +105,43 @@ def save(st):
         except PermissionError:
             time.sleep(0.5 * (attempt + 1))
     raise RuntimeError("could not write " + STATE)
+
+# ---------------- Phase D — regression check vs. the pre-fix baseline -------------
+def load_old_stats():
+    """(chapters, lessons) per book_code from output_old/ (the pre-fix run).
+    Filenames there are {code}.json, with the legacy edition slugs
+    farsi1/farsi3 for 110201/111201."""
+    m = {}
+    for fp in glob.glob(os.path.join(ROOT, "output_old", "grade-*", "*", "*.json")):
+        stem = os.path.splitext(os.path.basename(fp))[0]
+        code = (stem.split(" - ")[0] if " - " in stem
+                else {"farsi1": "110201", "farsi3": "111201"}.get(stem, stem))
+        try:
+            d = json.load(open(fp, encoding="utf-8"))
+            m[code] = (len(d.get("chapters", [])),
+                       sum(len(c.get("lessons", [])) for c in d.get("chapters", [])))
+        except Exception:
+            pass
+    return m
+
+def regression_check(code, n_ch, n_les, old_stats, counters, log_fn=None):
+    """Phase D: log books that lost (or gained) chapters/lessons vs. the
+    output_old baseline. 'regressed' = lost chapters; 'improved' = gained.
+    log_fn: the caller's logger (keeps the [p2]/[p3] prefix correct)."""
+    old = old_stats.get(str(code))
+    if not old:
+        return
+    o_ch, o_les = old
+    fn = log_fn or log
+    if n_ch < o_ch:
+        counters["regressed"] += 1
+        fn(f"[regression] {code}: {o_ch} -> {n_ch} chapters")
+    elif n_ch > o_ch:
+        counters["improved"] += 1
+        fn(f"[improved] {code}: {o_ch} -> {n_ch} chapters")
+    if n_ch >= o_ch and n_les < o_les:
+        counters["lessons_only"] += 1
+        fn(f"[regression:lessons] {code}: {o_les} -> {n_les} lessons")
 
 if __name__ == "__main__":
     sys.exit(main())

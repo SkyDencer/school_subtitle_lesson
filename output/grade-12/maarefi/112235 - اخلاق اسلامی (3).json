@@ -110,13 +110,25 @@
         },
         {
           "lesson_number": 26,
-          "title": "۲ اسلحه‌خانه"
+          "title": "۲ اسلحه‌خانه ۱"
+        },
+        {
+          "lesson_number": 27,
+          "title": "من از خدایی که انسان را آفریده و او را تعلیم داده است حیا نکنم؟۱"
+        },
+        {
+          "lesson_number": 28,
+          "title": "۱ شیخ صدوق. عیون اخبارالرضا نان ج۰۲ ص۴۵."
+        },
+        {
+          "lesson_number": 29,
+          "title": "شماره ۸ ص ۰۱۳۲"
         }
       ]
     }
   ],
   "front_matter": [],
   "back_matter": [],
-  "toc_pages": 1,
+  "toc_pages": 2,
   "extraction_method": "ocr"
 }

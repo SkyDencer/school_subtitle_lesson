@@ -107,6 +107,14 @@
         {
           "lesson_number": 25,
           "title": "الف"
+        },
+        {
+          "lesson_number": 26,
+          "title": "درس ۸ به صورت اختصاصی قواعد مبحث متییز را توضیح می دهد ."
+        },
+        {
+          "lesson_number": 27,
+          "title": "درس ۰۱ به تفکیک مباحثی از توابع، شامل نعت، عطف، بدل و تأکید را بیان می کند ."
         }
       ]
     }
@@ -117,6 +125,6 @@
     }
   ],
   "back_matter": [],
-  "toc_pages": 1,
+  "toc_pages": 2,
   "extraction_method": "text"
 }

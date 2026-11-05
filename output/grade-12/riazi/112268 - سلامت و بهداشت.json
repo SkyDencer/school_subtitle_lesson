@@ -97,13 +97,17 @@
         {
           "lesson_number": 3,
           "title": "منابع ............................... ۱۸۵ ................................"
+        },
+        {
+          "lesson_number": 4,
+          "title": "آموزشی در هفته درنظر گرفته شده است .۲۰"
         }
       ]
     }
   ],
   "front_matter": [],
   "back_matter": [],
-  "toc_pages": 1,
+  "toc_pages": 2,
   "extraction_method": "text",
   "shared_across": [
     "riazi",

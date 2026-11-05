@@ -91,6 +91,14 @@
         {
           "lesson_number": 21,
           "title": "الف"
+        },
+        {
+          "lesson_number": 22,
+          "title": "معرب و مبنی در درس .۷"
+        },
+        {
+          "lesson_number": 23,
+          "title": "معرفی ساختار جمالت فعلیه و اسمیه از درس ۸ تا درس .۱۲"
         }
       ]
     }
@@ -101,6 +109,6 @@
     }
   ],
   "back_matter": [],
-  "toc_pages": 1,
+  "toc_pages": 2,
   "extraction_method": "text"
 }

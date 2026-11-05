@@ -30,7 +30,7 @@
   "download_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/8/C103.pdf",
   "has_pdf": true,
   "download_status": "success",
-  "toc_status": null
+  "toc_status": "success"
  },
  {
   "book_code": "1031",
@@ -41,7 +41,7 @@
   "download_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/8/C1031.pdf",
   "has_pdf": true,
   "download_status": "success",
-  "toc_status": null
+  "toc_status": "success"
  },
  {
   "book_code": "104",
@@ -63,7 +63,7 @@
   "download_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/8/C1041.pdf",
   "has_pdf": true,
   "download_status": "success",
-  "toc_status": null
+  "toc_status": "success"
  },
  {
   "book_code": "105",
@@ -74,7 +74,7 @@
   "download_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/8/C105.pdf",
   "has_pdf": true,
   "download_status": "success",
-  "toc_status": "ocr_success"
+  "toc_status": "ocr_no_toc"
  },
  {
   "book_code": "1051",
@@ -85,7 +85,7 @@
   "download_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/8/C1051.pdf",
   "has_pdf": true,
   "download_status": "success",
-  "toc_status": null
+  "toc_status": "success"
  },
  {
   "book_code": "106",
@@ -118,7 +118,7 @@
   "download_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/8/C1081.pdf",
   "has_pdf": true,
   "download_status": "success",
-  "toc_status": null
+  "toc_status": "success"
  },
  {
   "book_code": "1087",
@@ -129,7 +129,7 @@
   "download_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/8/C1087.pdf",
   "has_pdf": true,
   "download_status": "success",
-  "toc_status": null
+  "toc_status": "success"
  },
  {
   "book_code": "1091",
@@ -140,7 +140,7 @@
   "download_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/8/C1091.pdf",
   "has_pdf": true,
   "download_status": "success",
-  "toc_status": null
+  "toc_status": "success"
  },
  {
   "book_code": "1941",
@@ -162,7 +162,7 @@
   "download_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/9/C201.pdf",
   "has_pdf": true,
   "download_status": "success",
-  "toc_status": null
+  "toc_status": "success"
  },
  {
   "book_code": "202",
@@ -173,7 +173,7 @@
   "download_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/9/C202.pdf",
   "has_pdf": true,
   "download_status": "success",
-  "toc_status": null
+  "toc_status": "success"
  },
  {
   "book_code": "2021",
@@ -184,7 +184,7 @@
   "download_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/9/C2021.pdf",
   "has_pdf": true,
   "download_status": "success",
-  "toc_status": null
+  "toc_status": "success"
  },
  {
   "book_code": "203",
@@ -206,7 +206,7 @@
   "download_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/9/C2031.pdf",
   "has_pdf": true,
   "download_status": "success",
-  "toc_status": null
+  "toc_status": "success"
  },
  {
   "book_code": "204",
@@ -239,7 +239,7 @@
   "download_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/9/C205.pdf",
   "has_pdf": true,
   "download_status": "success",
-  "toc_status": "ocr_success"
+  "toc_status": "ocr_no_toc"
  },
  {
   "book_code": "2051",
@@ -690,7 +690,7 @@
   "download_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/32/C605.pdf",
   "has_pdf": true,
   "download_status": "success",
-  "toc_status": "ocr_success"
+  "toc_status": "ocr_no_toc"
  },
  {
   "book_code": "606",
@@ -888,7 +888,7 @@
   "download_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/555/C711.pdf",
   "has_pdf": true,
   "download_status": "success",
-  "toc_status": "ocr_success"
+  "toc_status": "ocr_no_toc"
  },
  {
   "book_code": "712",
@@ -1064,7 +1064,7 @@
   "download_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/558/C811.pdf",
   "has_pdf": true,
   "download_status": "success",
-  "toc_status": "ocr_success"
+  "toc_status": "ocr_no_toc"
  },
  {
   "book_code": "812",

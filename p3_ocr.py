@@ -31,20 +31,7 @@ OCR_WORKERS = 4
 PSM      = "3"                  # fully automatic page segmentation (best for TOC pages)
 
 import toc_extract as te
-from p2_extract import slug_for, dl_path, out_path, save
-
-_OCR_TOC_KW = re.compile(r"فصل|(?<!ت)درس|کارگاه|حکمت|شعرخوانی|شعر خوانی|نیایش|واژه|مقدمه|بخش|پیشگفتار|ستایش|شعر")
-
-def _ocr_is_toc_page(lines):
-    """OCR pages carry no reliable page-number column (digits are stripped),
-    so gate continuation on keyword lines and dot leaders, same any-signal
-    rule as the text layer. Returns True while the page looks like a TOC."""
-    n = len(lines)
-    if n < 3:
-        return False
-    kw   = sum(1 for t in lines if _OCR_TOC_KW.search(t))
-    dots = "...." in "\n".join(lines)
-    return (kw >= 5) or dots
+from p2_extract import slug_for, dl_path, out_path, save, load_old_stats, regression_check
 
 def log(msg):
     line = f"[{datetime.datetime.now().isoformat(timespec='seconds')}] [p3] {msg}"
@@ -52,8 +39,10 @@ def log(msg):
         f.write(line + "\n")
     print(line, flush=True)
 
-def _ordered_lines(words):
-    """Rebuild lines preserving top-to-bottom order, each line RTL-joined."""
+def _ordered_lines(words, keep_trailing=False):
+    """Rebuild lines preserving top-to-bottom order, each line RTL-joined.
+    keep_trailing=True preserves trailing page numbers (needed by the
+    wide-read line filter, which uses 'ends with a digit' as a signal)."""
     words.sort(key=lambda t: (t[1], -t[0]))
     lines, cur, cury = [], [words[0]], words[0][1]
     for w in words[1:]:
@@ -67,7 +56,8 @@ def _ordered_lines(words):
         ln.sort(key=lambda t:-t[0])
         text=te.normalize(" ".join(w[3] for w in ln))
         text=re.sub(r"^[^ء-ي۰-۹٠-٩]+","",text).strip()      # drop leading OCR noise
-        text=re.sub(r"[۰-۹٠-٩0-9\s]+$","",text).strip()     # drop trailing page-number garbage
+        if not keep_trailing:
+            text=re.sub(r"[۰-۹٠-٩0-9\s]+$","",text).strip() # drop trailing page-number garbage
         letters=sum(1 for ch in text if 0x0600<=ord(ch)<=0x06FF)
         if letters>=2: res.append(text)                       # keep only real text lines
     return res
@@ -80,7 +70,8 @@ def extract_ocr(pdf_path, grade, branch, subject, book_code, out_path):
     try:
         # OCR all candidate pages up-front and cache their lines
         hi = min(PAGE_HI + 1, doc.page_count)
-        page_lines = {p: _ocr_lines(doc, p, workdir) for p in range(PAGE_LO, hi)}
+        page_lines = {p: _ocr_lines(doc, p, workdir, keep_trailing=True)
+                      for p in range(PAGE_LO, hi)}
         # Prefer a page that actually shows the فهرست heading; else fall back to the
         # most TOC-keyword-rich page. Require at least one فهرست OR >=4 keyword lines.
         def has_toc_heading(p):
@@ -91,24 +82,30 @@ def extract_ocr(pdf_path, grade, branch, subject, book_code, out_path):
             pidx = toc_pages[0]
         else:
             scored = sorted(((sum(1 for t in page_lines[p]
-                                  if re.search(r"فصل|(?<!ت)درس|کارگاه|گنج حکمت|روان|شعرخوانی|نیایش|واژه|کتاب", t)), p)
+                                  if te._TOC_ENTRY_KW.search(t)), p)
                              for p in page_lines), reverse=True)
             if not scored or scored[0][0] < 4:
                 res["status"] = "ocr_no_toc"      # no clear فهرست page -> don't dump a preface
                 return res
             pidx = scored[0][1]
-        lines = list(page_lines[pidx])
-        # include up to 4 following pages while they still look like a TOC
-        toc_pages = 1
-        for off in range(1, 5):
-            nxt = page_lines.get(pidx + off)
-            if not nxt:
+        # Phase A: wide read — OCR pidx and up to 5 following pages unconditionally
+        # Phase B: keep only genuine TOC entry lines (shared filter with the text layer)
+        # Phase C: stop at the first continuation page that contributes zero entries
+        # The فهرst page itself (off==0) is always kept — never filter a found فهرst
+        # page to zero lines.
+        lines = []
+        toc_pages = 0
+        for off in range(6):
+            p = pidx + off
+            if p not in page_lines:
                 break
-            if _ocr_is_toc_page(nxt):
-                lines = lines + nxt
-                toc_pages += 1
-            else:
-                break                     # body content starts -> stop
+            if off == 0:
+                lines.extend(page_lines[p]); toc_pages += 1
+                continue
+            pv = [t for t in page_lines[p] if te._is_toc_entry(None, t)]
+            if not pv:
+                break
+            lines.extend(pv); toc_pages += 1
         chapters, front, back = te.classify([ (None, t, pidx, i*10) for i,t in enumerate(lines) ])
         res.update({"status":"success","chapters":chapters,"front_matter":front,
                     "back_matter":back,"toc_page":pidx+1,"toc_pages":toc_pages,
@@ -126,7 +123,7 @@ def extract_ocr(pdf_path, grade, branch, subject, book_code, out_path):
         shutil.rmtree(workdir, ignore_errors=True)
         doc.close()
 
-def _ocr_lines(doc, pidx, workdir):
+def _ocr_lines(doc, pidx, workdir, keep_trailing=False):
     try:
         pg = doc[pidx]
         pix = pg.get_pixmap(dpi=DPI)
@@ -148,7 +145,7 @@ def _ocr_lines(doc, pidx, workdir):
         if len(t)<4 or not txt.strip(): continue
         words.append((int(t[0]), int(t[1]), int(t[2]), txt))
     if not words: return []
-    return _ordered_lines(words)
+    return _ordered_lines(words, keep_trailing)
 
 def main():
     import threading
@@ -170,6 +167,8 @@ def main():
         todo.append(b)
     log(f"Phase 3: {len(todo)} books need OCR (workers={OCR_WORKERS})")
     ocr_ok = ocr_no = 0
+    old_stats = load_old_stats()
+    reg = {"regressed": 0, "improved": 0, "lessons_only": 0}
 
     def work(b):
         node = b["node"]
@@ -180,6 +179,8 @@ def main():
                 b["toc_status"] = "ocr_success"
                 st["books"].setdefault(node, {})["toc_status"] = "ocr_success"
                 save(st)
+                regression_check(str(b["book_code"]), res.get("n_chapters", 0),
+                                 res.get("n_lessons", 0), old_stats, reg, log)
                 log(f"{node} ({slug_for(b)}): OCR TOC OK "
                     f"({res.get('n_chapters')} ch/{res.get('n_lessons')} les, p{res.get('toc_page')})")
                 return "ok"
@@ -198,7 +199,12 @@ def main():
                 log(f"progress {i}/{len(todo)}: ok={ocr_ok} no_toc={ocr_no}")
     json.dump(books, open(INV, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     log(f"=== PHASE 3 SUMMARY === ocr_success={ocr_ok} ocr_no_toc={ocr_no}")
+    log(f"=== PHASE 3 REGRESSION REPORT (vs output_old) === "
+        f"regressed={reg['regressed']} improved={reg['improved']} "
+        f"lessons_only_regressed={reg['lessons_only']}")
     print(f"\nPHASE 3 RESULT: ocr_success={ocr_ok} ocr_no_toc={ocr_no}")
+    print(f"PHASE 3 REGRESSION: regressed={reg['regressed']} improved={reg['improved']} "
+          f"lessons_only={reg['lessons_only']}")
     return 0
 
 if __name__=="__main__":

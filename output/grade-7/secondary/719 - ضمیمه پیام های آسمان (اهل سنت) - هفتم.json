@@ -27,12 +27,36 @@
         {
           "lesson_number": 5,
           "title": "نظرسنجی کتاب درسی"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس هشتم"
+        },
+        {
+          "lesson_number": 7,
+          "title": "افتخار بندگی ۱"
+        },
+        {
+          "lesson_number": 8,
+          "title": "ــ تسلط بر قرآن، (یعنی احکامی که در قرآن بیان شده است .)۱"
+        },
+        {
+          "lesson_number": 9,
+          "title": "درس نهم"
+        },
+        {
+          "lesson_number": 10,
+          "title": "به سوی پاکی ۱"
+        },
+        {
+          "lesson_number": 11,
+          "title": "می شود با شستن تنها پاک نمی شود، بلکه شستن آن شیوهٔ خاصی دارد . ۱"
         }
       ]
     }
   ],
   "front_matter": [],
   "back_matter": [],
-  "toc_pages": 1,
+  "toc_pages": 5,
   "extraction_method": "text"
 }

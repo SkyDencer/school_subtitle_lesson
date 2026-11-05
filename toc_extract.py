@@ -108,35 +108,26 @@ def _reconstruct_lines(page, skip_heading=("فهرست",)):
     out.sort(key=lambda t:t[3])
     return out
 
-_TOC_KW = re.compile(r"فصل|(?<!ت)درس|کارگاه|حکمت|شعرخوانی|شعر خوانی|نیایش|واژه|مقدمه|بخش|پیشگفتار|ستایش")
+_TOC_ENTRY_KW = re.compile(
+    r"فصل|(?<!ت)درس|کارگاه|گنج.?حکمت|روان.?خوانی|شعر.?خوانی|ستایش|نیایش|واژه.?نامه|کتاب.?نامه")
+_END_DIGIT = re.compile(r"[۰-۹٠-٩0-9]\.?$")
 
-def _is_toc_page(pl, raw=""):
-    """Does this page look like a فهرst (TOC) page vs. actual content?
-    pl: list of (pagenum,title,pidx,y); raw: the page's raw text.
-    Accept on ANY of:
-      * a dot-leader run (4+ dots) — TOC-only;
-      * >=8 lines leading with a short page number (the فهرst layout);
-      * a small page (8-40 lines) that is dominated by short keyword/numbered
-        entry lines (ratio >= 0.5) — keyword-only فهرst continuations.
-    Stop on: preface/body pages (a few stray short lines but dominated by long
-    paragraphs, or too many lines to be a TOC), and a big 'فصل ...' heading
-    without dot leaders (real chapter content started)."""
-    n = len(pl)
-    if n < 3:
-        return False
-    dots      = "...." in raw
-    big_fasal = any(t.startswith("فصل") and len(t) > 40 for (_pn,t,_,_) in pl)
-    if big_fasal and not dots:
-        return False
-    if dots:
+def _is_toc_entry(pagenum, title):
+    """Phase B — line-level filter. A wide-read line is a genuine TOC entry
+    (not preface/body prose) if it:
+      * ends with a page number (a digit, optional trailing '.'), OR
+      * contains a dot-leader run ("...."), OR
+      * starts with a TOC keyword (فصل/درس/کارگاه/گنج حکمت/روان‌خوانی/
+        شعرخوانی/ستایش/نیایش/واژه‌نامه/کتاب‌نامه) and is short (<80 chars).
+    Everything else (long paragraphs, preface prose, chapter-opening content)
+    is dropped.  This filters the LINES, not the pages."""
+    t = title
+    if _END_DIGIT.search(t):
         return True
-    short_num = sum(1 for (pn,t,_,_) in pl if pn is not None and len(t) <= 50)
-    if short_num >= 8:
+    if "...." in t:
         return True
-    struct = sum(1 for (pn,t,_,_) in pl
-                 if len(t) <= 50 and ((pn is not None) or _TOC_KW.search(t)))
-    if 8 <= n <= 40 and struct / n >= 0.5:
-        return True                     # keyword-only فهرst continuation page
+    if _TOC_ENTRY_KW.match(t) and len(t) < 80:
+        return True
     return False
 
 def chapter_number(title):
@@ -195,18 +186,21 @@ def extract_toc_from_pdf(pdf_path, grade, branch, subject, book_code, out_path):
     if toc_start is None:
         res["status"]="no_toc_found"; doc.close(); return res
     lines=[]
-    toc_pages=1
-    for off in range(5):                       # فهرست page + up to 4 continuation pages
+    toc_pages=0
+    for off in range(6):                     # Phase A: read فهرst + next 5 pages
         idx=toc_start+off
         if idx>=doc.page_count: break
         page=doc[idx]
-        pl=_reconstruct_lines(page)
+        pl=_reconstruct_lines(page)          # all lines, no per-page gate
         if off==0:
-            lines.extend(pl); continue
-        if _is_toc_page(pl, _page_text(page)):
-            lines.extend(pl); toc_pages+=1
-        else:
-            break                               # body content starts -> stop
+            lines.extend(pl); toc_pages+=1    # the فهرst page itself: unconditional
+            continue
+        # Phase B: keep only genuine TOC entries (line-level filter)
+        pv=[l for l in pl if _is_toc_entry(l[0], l[1])]
+        # Phase C: stop at the first continuation page with zero TOC entries
+        if not pv:
+            break
+        lines.extend(pv); toc_pages+=1
     # de-dupe
     seen=set(); uniq=[]
     for it in lines:
