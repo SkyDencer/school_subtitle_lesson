@@ -1,0 +1,54 @@
+{
+  "grade": 6,
+  "branch": "primary",
+  "subject": "ضمیمه پیام های آسمان (اهل سنت) - ششم",
+  "book_code": "619",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس ۲: بهترین راهنمایان"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس ۳: سرور آزادگان"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس ۵: رهروان راه صحابه"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس ۷: سیمای خوبان"
+        },
+        {
+          "lesson_number": 5,
+          "title": "درس ۸: فرزند پاک"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس ۹: پندهای جاودان"
+        },
+        {
+          "lesson_number": 7,
+          "title": "اعتقادات ما"
+        },
+        {
+          "lesson_number": 8,
+          "title": "درس ۱۳: احکام سفر"
+        },
+        {
+          "lesson_number": 9,
+          "title": "درس ۱۷: عمره"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

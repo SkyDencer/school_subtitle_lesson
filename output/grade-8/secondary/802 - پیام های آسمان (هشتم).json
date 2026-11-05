@@ -1,0 +1,94 @@
+{
+  "grade": 8,
+  "branch": "secondary",
+  "subject": "پیام های آسمان (هشتم)",
+  "book_code": "802",
+  "chapters": [
+    {
+      "chapter_number": null,
+      "title": "فصل اوّل: خداشناسی",
+      "lessons": []
+    },
+    {
+      "chapter_number": 3,
+      "title": "فصل سوم: راهنماشناسی",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس"
+        },
+        {
+          "lesson_number": 2,
+          "title": "اوّل"
+        },
+        {
+          "lesson_number": 3,
+          "title": "چهارم"
+        },
+        {
+          "lesson_number": 4,
+          "title": "پیوند جاودان"
+        },
+        {
+          "lesson_number": 5,
+          "title": "آفرینش شگفت انگیز"
+        },
+        {
+          "lesson_number": 6,
+          "title": "دوم"
+        },
+        {
+          "lesson_number": 7,
+          "title": "پنجم"
+        },
+        {
+          "lesson_number": 8,
+          "title": "عفو و گذشت"
+        },
+        {
+          "lesson_number": 9,
+          "title": "روزی که اسالم کامل شد"
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "فصل چهارم: راه و توشه",
+      "lessons": []
+    },
+    {
+      "chapter_number": 2,
+      "title": "فصل دوم: معاد",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "ششم"
+        },
+        {
+          "lesson_number": 2,
+          "title": "سوم"
+        },
+        {
+          "lesson_number": 3,
+          "title": "نردبان آسمان"
+        },
+        {
+          "lesson_number": 4,
+          "title": "همه چیز در دست تو ..."
+        },
+        {
+          "lesson_number": 5,
+          "title": "هفتم"
+        },
+        {
+          "lesson_number": 6,
+          "title": "یک فرصت طالیی"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

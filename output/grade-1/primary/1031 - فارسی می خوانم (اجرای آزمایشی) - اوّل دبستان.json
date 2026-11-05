@@ -1,0 +1,54 @@
+{
+  "grade": 1,
+  "branch": "primary",
+  "subject": "فارسی می خوانم (اجرای آزمایشی) - اوّل دبستان",
+  "book_code": "1031",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "با هم بخوانیم"
+        },
+        {
+          "lesson_number": 2,
+          "title": "‌مهربان تر اَز مادر ۱۲"
+        },
+        {
+          "lesson_number": 3,
+          "title": "‌نقشه ی گنج"
+        },
+        {
+          "lesson_number": 4,
+          "title": "مَن ۱۴"
+        },
+        {
+          "lesson_number": 5,
+          "title": "کِلاس ۲۰"
+        },
+        {
+          "lesson_number": 6,
+          "title": "مَن و دُنیا ۱۶"
+        },
+        {
+          "lesson_number": 7,
+          "title": "زِندِگی دَر مَدرِسه ۲۲"
+        },
+        {
+          "lesson_number": 8,
+          "title": "مَدرِسه ۱۸"
+        },
+        {
+          "lesson_number": 9,
+          "title": "دوستی ۲۴"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

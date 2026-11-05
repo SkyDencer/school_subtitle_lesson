@@ -1,0 +1,86 @@
+{
+  "grade": 9,
+  "branch": "secondary",
+  "subject": "نگارش (نهم)",
+  "book_code": "904",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "وج و"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس پنجم: نوشته را خوش, آغاز کنیم؛ زیبا به پایان ببریم و نیکو نام‌گذاری کنیم."
+        },
+        {
+          "lesson_number": 3,
+          "title": "۱۶۵ فتالیت‌های‌نگارشی"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس ششم: قالبی برای نوشتن, برگزینیم. آ ۷۱]"
+        },
+        {
+          "lesson_number": 5,
+          "title": "۱ فتالیت‌های‌نگارشی"
+        },
+        {
+          "lesson_number": 6,
+          "title": "۱ درست‌نویسی"
+        },
+        {
+          "lesson_number": 7,
+          "title": "۴ مثْل نویسی"
+        },
+        {
+          "lesson_number": 8,
+          "title": "درس هفتم: وسعت و عمق نوشته را بیشتر کنیم. ۸۵|"
+        },
+        {
+          "lesson_number": 9,
+          "title": "۱ فتالیت‌های نگارشی"
+        },
+        {
+          "lesson_number": 10,
+          "title": "۵۱ | درست‌نویسی"
+        },
+        {
+          "lesson_number": 11,
+          "title": "۶ تصویرنویسی"
+        },
+        {
+          "lesson_number": 12,
+          "title": "درس هشتم: نوشته را ویرایش کنیم. |"
+        },
+        {
+          "lesson_number": 13,
+          "title": "۱۰۲ فتالیت‌های نگارشی"
+        },
+        {
+          "lesson_number": 14,
+          "title": "درست‌نوبسی"
+        },
+        {
+          "lesson_number": 15,
+          "title": "۲ عحکایت‌نگاری"
+        },
+        {
+          "lesson_number": 16,
+          "title": "تابنامه"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [
+    {
+      "title": "نیایش |"
+    }
+  ],
+  "toc_pages": 1,
+  "extraction_method": "ocr"
+}

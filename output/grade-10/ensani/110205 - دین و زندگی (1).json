@@ -1,0 +1,54 @@
+{
+  "grade": 10,
+  "branch": "ensani",
+  "subject": "دین و زندگی (1)",
+  "book_code": "110205",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "بخش اوّل: تفکر و اندیشه"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس دوم: قدرت پرواز"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس اول: هدف زندگی"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس سوم: خودِ حقیقی"
+        },
+        {
+          "lesson_number": 5,
+          "title": "درس چهارم: چیستی مرگ"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس پنجم: چگونگی مرگ"
+        },
+        {
+          "lesson_number": 7,
+          "title": "درس ششم: آیندهٴ روشن"
+        },
+        {
+          "lesson_number": 8,
+          "title": "درس هفتم: منزلگاه بعد"
+        },
+        {
+          "lesson_number": 9,
+          "title": "درس هشتم: فرجام کار"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

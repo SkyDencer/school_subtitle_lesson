@@ -1,0 +1,104 @@
+{
+  "grade": 10,
+  "branch": "ensani",
+  "subject": "اقتصاد",
+  "book_code": "110221",
+  "chapters": [
+    {
+      "chapter_number": null,
+      "title": "فصل اوّل / اصول انتخاب در کسب و کار /",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس اول / کسب و کار و کارآفرینی /"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس دوم / انتخاب نوع کسب و کار /"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس سوم / اصول انتخاب درست /"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس چهارم / مرز امکانات تولید /"
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "فصل دوم / بازیگران اصلی در میدان اقتصاد /",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس پنجم / بازار چیست و چگونه عمل می کند؟ /"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس ششم / نقش دولت در اقتصاد چیست؟ /"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس هفتم / تجارت بین الملل /"
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "فصل سوم / اقتصاد رشد و پیشرفت /",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس هشتم / رکود، بیکاری و فقر /"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس نهم / تورم و کاهش قدرت خرید /"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس دهم / مقاوم سازی اقتصاد /"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس یازدهم / رشد و پیشرفت اقتصادی /"
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "فصل چهارم / اقتصاد در خانواده /",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس دوازدهم / بودجه بندی /"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس سیزدهم / تصمیم گیری در مخارج /"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس چهاردهم / پس انداز و سرمایه گذاری /"
+        },
+        {
+          "lesson_number": 4,
+          "title": "منابع /"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [
+    {
+      "title": "واژه نامه /"
+    }
+  ],
+  "toc_pages": 1,
+  "extraction_method": "text",
+  "shared_across": [
+    "ensani",
+    "maarefi"
+  ]
+}

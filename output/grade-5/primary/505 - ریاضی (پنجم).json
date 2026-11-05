@@ -1,0 +1,86 @@
+{
+  "grade": 5,
+  "branch": "primary",
+  "subject": "ریاضی (پنجم)",
+  "book_code": "505",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "فصل ۱: عدد نویسی و الگوها",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "یادآوری عددنویسی و محاسبات عددی"
+        },
+        {
+          "lesson_number": 2,
+          "title": "معرّفی میلیارد"
+        },
+        {
+          "lesson_number": 3,
+          "title": "جمع و تفریق عددهای مرکّب"
+        },
+        {
+          "lesson_number": 4,
+          "title": "الگوها"
+        },
+        {
+          "lesson_number": 5,
+          "title": "مرور فصل"
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "فصل ۲: کسر",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "کسرهای‌بزرگ تر از واحد"
+        },
+        {
+          "lesson_number": 2,
+          "title": "جمع و تفریق عددهای مخلوط"
+        },
+        {
+          "lesson_number": 3,
+          "title": "ضرب کسرها"
+        },
+        {
+          "lesson_number": 4,
+          "title": "تقسیم کسرها"
+        },
+        {
+          "lesson_number": 5,
+          "title": "ضرب عددهای مخلوط"
+        }
+      ]
+    },
+    {
+      "chapter_number": null,
+      "title": "فصل۳: نسبت، تناسب و درصد",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "نسبت"
+        },
+        {
+          "lesson_number": 2,
+          "title": "‌نسبت های مساوی"
+        },
+        {
+          "lesson_number": 3,
+          "title": "تناسب"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درصد"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

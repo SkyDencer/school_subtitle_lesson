@@ -1,0 +1,98 @@
+{
+  "grade": 6,
+  "branch": "primary",
+  "subject": "هدیه های آسمان (ویژه اقلیت های دینی) - ششم",
+  "book_code": "620",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "یكتا"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس اوّل"
+        },
+        {
+          "lesson_number": 3,
+          "title": "بهترین راهنمایان"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس دوم"
+        },
+        {
+          "lesson_number": 5,
+          "title": "سیمای خوبان"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس سوم"
+        },
+        {
+          "lesson_number": 7,
+          "title": "درس چهارم"
+        },
+        {
+          "lesson_number": 8,
+          "title": "باغ سرّی"
+        },
+        {
+          "lesson_number": 9,
+          "title": "درس پنجم"
+        },
+        {
+          "lesson_number": 10,
+          "title": "جهان دیگر"
+        },
+        {
+          "lesson_number": 11,
+          "title": "درس ششم"
+        },
+        {
+          "lesson_number": 12,
+          "title": "آداب زندگی"
+        },
+        {
+          "lesson_number": 13,
+          "title": "راه تندرستی"
+        },
+        {
+          "lesson_number": 14,
+          "title": "درس هفتم"
+        },
+        {
+          "lesson_number": 15,
+          "title": "راز موفّقیت"
+        },
+        {
+          "lesson_number": 16,
+          "title": "درس هشتم"
+        },
+        {
+          "lesson_number": 17,
+          "title": "حماسه آفرینان جاودان"
+        },
+        {
+          "lesson_number": 18,
+          "title": "درس نهم"
+        },
+        {
+          "lesson_number": 19,
+          "title": "دانش‌آموز نمونه"
+        },
+        {
+          "lesson_number": 20,
+          "title": "درس دهم"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 2,
+  "extraction_method": "text"
+}

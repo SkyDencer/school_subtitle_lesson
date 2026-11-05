@@ -1,0 +1,74 @@
+{
+  "grade": 6,
+  "branch": "primary",
+  "subject": "علوم تجربی (ششم)",
+  "book_code": "606",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "زنگ علوم"
+        },
+        {
+          "lesson_number": 2,
+          "title": "سرگذشت دفتر من"
+        },
+        {
+          "lesson_number": 3,
+          "title": "کارخانه ی کاغذسازی"
+        },
+        {
+          "lesson_number": 4,
+          "title": "سفر به اعماق زمین"
+        },
+        {
+          "lesson_number": 5,
+          "title": "زمین پویا"
+        },
+        {
+          "lesson_number": 6,
+          "title": "ورزش و نیرو)۱("
+        },
+        {
+          "lesson_number": 7,
+          "title": "ورزش و نیرو ۲()"
+        },
+        {
+          "lesson_number": 8,
+          "title": "طرّاحی کنیم و بسازیم"
+        },
+        {
+          "lesson_number": 9,
+          "title": "سفر انرژی"
+        },
+        {
+          "lesson_number": 10,
+          "title": "خیلی کوچک، خیلی بزرگ"
+        },
+        {
+          "lesson_number": 11,
+          "title": "شگفتی های برگ"
+        },
+        {
+          "lesson_number": 12,
+          "title": "جنگل برای کیست؟"
+        },
+        {
+          "lesson_number": 13,
+          "title": "سالم بمانیم"
+        },
+        {
+          "lesson_number": 14,
+          "title": "از گذشته تا آینده"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

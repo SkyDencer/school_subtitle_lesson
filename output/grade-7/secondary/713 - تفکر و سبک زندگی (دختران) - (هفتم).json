@@ -1,0 +1,26 @@
+{
+  "grade": 7,
+  "branch": "secondary",
+  "subject": "تفکر و سبک زندگی (دختران) - (هفتم)",
+  "book_code": "713",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "بلوغ من ۵......................"
+        },
+        {
+          "lesson_number": 2,
+          "title": "آداب پوشش و معاشرت ۱۴......."
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

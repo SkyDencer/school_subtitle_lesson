@@ -1,0 +1,98 @@
+{
+  "grade": 2,
+  "branch": "primary",
+  "subject": "کتاب کار هنر و خلاقیت (اجرای آزمایشی)-(دوم دبستان)",
+  "book_code": "2081",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس ۱‌: حس های من در طبیعت ۸"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس ۲‌: نقطه ها و‌خط ها چه می‌گویند؟ ۱۲"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس ۳: الگوهای پنهان اطراف من ۱۶"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس ۴ رنگ‌: ها چطور با یکدیگر دوست می‌شوند؟ ۲۰"
+        },
+        {
+          "lesson_number": 5,
+          "title": "درس ۵: طبیعت زیبا ۲۴"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس ۶ اوّلین چیزی که‌: می بینیم ۲۸"
+        },
+        {
+          "lesson_number": 7,
+          "title": "درس ۷ کشف‌: زیبایی ها ۳۲"
+        },
+        {
+          "lesson_number": 8,
+          "title": "درس ۸‌: داستان های شهر من ۳۶"
+        },
+        {
+          "lesson_number": 9,
+          "title": "درس ۹: دنیای سبز من ۴۰"
+        },
+        {
+          "lesson_number": 10,
+          "title": "درس ۱۰: احساس من، احساس تو ۴۴"
+        },
+        {
+          "lesson_number": 11,
+          "title": "درس ۱۱: طبیعت در خیال من ۴۸"
+        },
+        {
+          "lesson_number": 12,
+          "title": "درس ۱۲: تمیز، مرتّب، هنرمند ۵۲"
+        },
+        {
+          "lesson_number": 13,
+          "title": "درس ۱۳‌: خاطره ای که یادم ماند ۵۶"
+        },
+        {
+          "lesson_number": 14,
+          "title": "درس ۱۴: اگر عوضش کنم چی میشه؟ ۶۰"
+        },
+        {
+          "lesson_number": 15,
+          "title": "درس ۱۵: نقطه و خط در اطراف ما ۶۴"
+        },
+        {
+          "lesson_number": 16,
+          "title": "درس ۱۶: راز ساختن یک اثر هنری ۶۸"
+        },
+        {
+          "lesson_number": 17,
+          "title": "درس ۱۷ فکر‌: می کنم و بعد جواب می‌دهم ۷۲"
+        },
+        {
+          "lesson_number": 18,
+          "title": "درس ۱۸: دوست من طبیعت ۷۶"
+        },
+        {
+          "lesson_number": 19,
+          "title": "درس ۱۹ با هم بازی‌: می کنیم، با هم یاد می‌گیریم"
+        },
+        {
+          "lesson_number": 20,
+          "title": "فعّالیت پایانی: قصّه بگویم ۸۴"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

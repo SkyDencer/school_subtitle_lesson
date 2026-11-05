@@ -1,0 +1,54 @@
+{
+  "grade": 11,
+  "branch": "tajrobi",
+  "subject": "ضمیمه دین و زندگی (2) - ویژه اهل سنت",
+  "book_code": "111238",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس اوّل: خالفت و حکومت اسالمى پس از رسول خدا"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس دوم: شورا و خالفت اسالمی"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس سوم: خُلفای راشدین"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس چهارم: گستره و انشعابات علوم اسالمی پس از خلفای راشدین"
+        },
+        {
+          "lesson_number": 5,
+          "title": "درس پنجم: احکام و فقه اسالمى (تخصصی برای علوم انسانی)"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس ششم: امّت واحده و بصیرت دینی"
+        },
+        {
+          "lesson_number": 7,
+          "title": "درس هفتم: زمینه های تفرقه و جدایی مسلمانان (تخصصی برای علوم انسانی)"
+        },
+        {
+          "lesson_number": 8,
+          "title": "درس هشتم: آیندهٔ تاریخ در پرتو اخالق اسالمی"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text",
+  "shared_across": [
+    "tajrobi",
+    "ensani"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "grade": 10,
+  "branch": "riazi",
+  "subject": "نگارش (1)",
+  "book_code": "110202",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس اوّل: پرورش موضوع"
+        },
+        {
+          "lesson_number": 2,
+          "title": "کارگاهِ نوشتن"
+        },
+        {
+          "lesson_number": 3,
+          "title": "هنجار نوشتار ۱"
+        },
+        {
+          "lesson_number": 4,
+          "title": "حکایت نگاری"
+        },
+        {
+          "lesson_number": 5,
+          "title": "درس دوم: عینکِ نوشتن"
+        },
+        {
+          "lesson_number": 6,
+          "title": "هنجار نوشتار ۲"
+        },
+        {
+          "lesson_number": 7,
+          "title": "مَثَل نویسی"
+        },
+        {
+          "lesson_number": 8,
+          "title": "درس سوم: نوشته های عینی"
+        },
+        {
+          "lesson_number": 9,
+          "title": "هنجار نوشتار ۳"
+        },
+        {
+          "lesson_number": 10,
+          "title": "شعرگردانی"
+        },
+        {
+          "lesson_number": 11,
+          "title": "درس چهارم:‌نوشته های‌گزارش گونه"
+        }
+      ]
+    }
+  ],
+  "front_matter": [
+    {
+      "title": "پیشگفتار"
+    },
+    {
+      "title": "ستایش"
+    }
+  ],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text",
+  "shared_across": [
+    "riazi",
+    "tajrobi",
+    "ensani",
+    "maarefi"
+  ]
+}

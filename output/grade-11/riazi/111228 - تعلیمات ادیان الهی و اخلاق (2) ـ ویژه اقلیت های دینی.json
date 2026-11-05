@@ -1,0 +1,71 @@
+{
+  "grade": 11,
+  "branch": "riazi",
+  "subject": "تعلیمات ادیان الهی و اخلاق (2) ـ ویژه اقلیت های دینی",
+  "book_code": "111228",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "بخش اوّل ــ خداشناسی"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس اوّل: آیا خدا را می توان انكار كرد؟"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس دوم: برهان علیّت"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس سوم: انگیزه های انكار خدا"
+        },
+        {
+          "lesson_number": 5,
+          "title": "درس چهارم: توحید و شرک"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس پنجم: عدل الهی"
+        },
+        {
+          "lesson_number": 7,
+          "title": "درس ششم: بازتاب ایمان در زندگی انسان"
+        },
+        {
+          "lesson_number": 8,
+          "title": "بخش دوم ــ چه نیازی به دین؟"
+        },
+        {
+          "lesson_number": 9,
+          "title": "درس هفتم: نیاز انسان به مكتب"
+        },
+        {
+          "lesson_number": 10,
+          "title": "درس هشتم: ناتوانی مكتب های بشری"
+        },
+        {
+          "lesson_number": 11,
+          "title": "درس نهم: نیاز به مكتب آسمانی)۱("
+        },
+        {
+          "lesson_number": 12,
+          "title": "درس دهم: نیاز به مكتب آسمانی)۲("
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text",
+  "shared_across": [
+    "riazi",
+    "tajrobi",
+    "ensani"
+  ]
+}

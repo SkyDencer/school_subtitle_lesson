@@ -1,0 +1,118 @@
+{
+  "grade": 5,
+  "branch": "primary",
+  "subject": "نگارش فارسی (پنجم)",
+  "book_code": "504",
+  "chapters": [
+    {
+      "chapter_number": 4,
+      "title": "فصل چهارم:‌نام آوران ۴۷",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس نهم: نام آوران دیروز، امروز، فردا ۴۸"
+        }
+      ]
+    },
+    {
+      "chapter_number": null,
+      "title": "فصل اوّل: آفرینش ۷",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس دهم: نامِ نیكو ۵۳"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس اوّل: تماشاخانه ۸"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس یازدهم: نقشِ خردمندان ۵۷"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس دوم: فضلِ خدا ۱۲"
+        },
+        {
+          "lesson_number": 5,
+          "title": "درس دوازدهم: درس آزاد (فرهنگِ بومی)۲ ۶۲"
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "فصل دوم: دانایی و هوشیاری ۱۷",
+      "lessons": []
+    },
+    {
+      "chapter_number": 5,
+      "title": "فصل پنجم: راهِ زندگی ۶۷",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس سوم: رازی و ساخت بیمارستان ۱۸"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس سیزدهم: روزی كه باران می بارید ۶۸"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس چهارم: بازرگان و پسران ۲۳"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس چهاردهم: شجاعت ۷۳"
+        },
+        {
+          "lesson_number": 5,
+          "title": "درس پنجم: چنار و کدوبُن ۲۷"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس پانزدهم: کاجِستان ۷۷"
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "فصل سوم: ایرانِ من ۳۳",
+      "lessons": []
+    },
+    {
+      "chapter_number": 6,
+      "title": "فصل ششم: علم و عمل ۸۳",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس ششم: سرود ملّی ۳۴"
+        },
+        {
+          "lesson_number": 2,
+          "title": "شانزدهم: وقتی بوعلی ،درس كودك بود ۸۴"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس هفتم: درس آزاد (فرهنگِ بومی)۱ ۳۸"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس هفدهم: کار و تالش ۸۹"
+        },
+        {
+          "lesson_number": 5,
+          "title": "درس هشتم: دفاع از میهن ۴۰"
+        }
+      ]
+    }
+  ],
+  "front_matter": [
+    {
+      "title": "پیشگفتار ۵"
+    }
+  ],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

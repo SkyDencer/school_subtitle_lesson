@@ -1,0 +1,136 @@
+{
+  "grade": 9,
+  "branch": "secondary",
+  "subject": "پیام های آسمان (نهم)",
+  "book_code": "902",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "فصل اول: خداشناسی",
+      "lessons": []
+    },
+    {
+      "chapter_number": 2,
+      "title": "فصل دوم: راهنماشناسی",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس اول"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس سوم"
+        },
+        {
+          "lesson_number": 3,
+          "title": "تو را چگونه بشناسم؟"
+        },
+        {
+          "lesson_number": 4,
+          "title": "راهنمایان الهی"
+        },
+        {
+          "lesson_number": 5,
+          "title": "درس دوم"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس چهارم"
+        },
+        {
+          "lesson_number": 7,
+          "title": "در پناه ایمان"
+        },
+        {
+          "lesson_number": 8,
+          "title": "خورشید پنهان"
+        },
+        {
+          "lesson_number": 9,
+          "title": "درس پنجم"
+        },
+        {
+          "lesson_number": 10,
+          "title": "رهبری در دوران غیبت"
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "فصل سوم: راه و توشه",
+      "lessons": []
+    },
+    {
+      "chapter_number": 5,
+      "title": "فصل پنجم: جامعه اسالمی",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس نهم"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس ششم"
+        },
+        {
+          "lesson_number": 3,
+          "title": "انقالب اسالمی ایران"
+        },
+        {
+          "lesson_number": 4,
+          "title": "وضو، غسل و تیمم"
+        },
+        {
+          "lesson_number": 5,
+          "title": "درس دهم"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس هفتم"
+        },
+        {
+          "lesson_number": 7,
+          "title": "مسئولیت همگانی"
+        },
+        {
+          "lesson_number": 8,
+          "title": "احکام نماز"
+        },
+        {
+          "lesson_number": 9,
+          "title": "درس یازدهم"
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "فصل چهارم: اخالق",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "انفاق"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس دوازدهم"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس هشتم"
+        },
+        {
+          "lesson_number": 4,
+          "title": "جهاد"
+        },
+        {
+          "lesson_number": 5,
+          "title": "همدلی و همراهی"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 2,
+  "extraction_method": "text"
+}

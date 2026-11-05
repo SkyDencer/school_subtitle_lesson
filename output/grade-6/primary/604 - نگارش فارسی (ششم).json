@@ -1,0 +1,118 @@
+{
+  "grade": 6,
+  "branch": "primary",
+  "subject": "نگارش فارسی (ششم)",
+  "book_code": "604",
+  "chapters": [
+    {
+      "chapter_number": 4,
+      "title": "فصل چهارم:‌نام آوران ۵۷",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس نهم: رنج‌هایی‌کشیده ام که مپرس ۵۸"
+        }
+      ]
+    },
+    {
+      "chapter_number": null,
+      "title": "فصل اوّل: آفرینش ۹",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس دهم: عطّار و جالل الدّین محمّد ۶۳"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس اوّل: معرفتِ آفریدگار ۱۰"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس یازدهم: شهدا خورشیدند ۶۸"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس دوم: پنجره های شناخت ۱۵"
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "فصل پنجم: راهِ زندگی ۷۵",
+      "lessons": []
+    },
+    {
+      "chapter_number": 2,
+      "title": "فصل دوم: دانایی و هوشیاری ۲۳",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس دوازدهم: دوستی و مشاوره ۷۶"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس سوم: هوشیاری ۲۴"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس سیزدهم: درس آزاد (فرهنگِ بومی)۲ ۸۰"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس چهارم: داستان من و شما ۲۹"
+        },
+        {
+          "lesson_number": 5,
+          "title": "درس چهاردهم: رازِ زندگی ۸۳"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس پنجم: هفت خانِ رستم ۳۳"
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "فصل ششم: علم و عمل ۸۹",
+      "lessons": []
+    },
+    {
+      "chapter_number": 3,
+      "title": "فصل سوم: ایرانِ من ۴۱",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس پانزدهم:‌میوه ی هنر ۹۰"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس ششم: ای وطن ۴۲"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس شانزدهم: آداب مطالعه ۹۵"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس هفتم: درس آزاد (فرهنگِ بومی)۱ ۴۷"
+        },
+        {
+          "lesson_number": 5,
+          "title": "درس هفدهم:‌ستاره ی روشن ۹۹"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس هشتم: دریا قُلی ۵۰"
+        }
+      ]
+    }
+  ],
+  "front_matter": [
+    {
+      "title": "پیشگفتار ۵"
+    }
+  ],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

@@ -1,0 +1,289 @@
+{
+  "grade": 11,
+  "branch": "riazi",
+  "subject": "فارسی (2)",
+  "book_code": "111201",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "فصل یکم: ادبیات تعلیمی",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس یكم: نیكی"
+        },
+        {
+          "lesson_number": 2,
+          "title": "کارگاه متن پژوهی"
+        },
+        {
+          "lesson_number": 3,
+          "title": "گنج حکمت: همّت"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس دوم: قاضی بُست"
+        },
+        {
+          "lesson_number": 5,
+          "title": "کارگاه متن پژوهی"
+        },
+        {
+          "lesson_number": 6,
+          "title": "شعرخوانی: زاغ و کبک"
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "فصل دوم: ادبیات پایداری۲۷",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس سوم: در امواج سند۲۸"
+        },
+        {
+          "lesson_number": 2,
+          "title": "کارگاه متن پژوهی۱"
+        },
+        {
+          "lesson_number": 3,
+          "title": "گنج حکمت: چو سرو باش"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس چهارم: درس آزاد (ادبیات بومی۴ ۱)"
+        },
+        {
+          "lesson_number": 5,
+          "title": "۳ فارسی واژه ها در عربی"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس پنجم: آغازگری تنها"
+        },
+        {
+          "lesson_number": 7,
+          "title": "کارگاه متن پژوهی۴۳"
+        },
+        {
+          "lesson_number": 8,
+          "title": "روان۴۵ خوانی: تا غزل بعد ..."
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "فصل سوم: ادبیات غنایی۱",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس ششم: پروردة عشق۲"
+        },
+        {
+          "lesson_number": 2,
+          "title": "کارگاه متن پژوهی۴"
+        },
+        {
+          "lesson_number": 3,
+          "title": "۵ گنج حکمت: مردان واقعی"
+        },
+        {
+          "lesson_number": 4,
+          "title": "۵ درس هفتم: باران محبّت"
+        },
+        {
+          "lesson_number": 5,
+          "title": "کارگاه متن پژوهی"
+        },
+        {
+          "lesson_number": 6,
+          "title": "شعرخوانی: آفتاب حُسن"
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "فصل چهارم: ادبیات سفر و زندگی",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس هشتم: درکوی عاشقان"
+        },
+        {
+          "lesson_number": 2,
+          "title": "کارگاه متن پژوهی"
+        },
+        {
+          "lesson_number": 3,
+          "title": "گنج حکمت: چنان باش ..."
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس نهم: ذوق لطیف"
+        },
+        {
+          "lesson_number": 5,
+          "title": "کارگاه متن پژوهی"
+        },
+        {
+          "lesson_number": 6,
+          "title": "روان ۸ خوانی: میثاق دوستی"
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "فصل پنجم: ادبیات انقالب اسالمی",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "۸ درس دهم: بانگ جَرَس"
+        },
+        {
+          "lesson_number": 2,
+          "title": "کارگاه متن پژوهی"
+        },
+        {
+          "lesson_number": 3,
+          "title": "گنج حکمت: به یاد ۲۲ بهمن"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس یازدهم: یاران عاشق"
+        },
+        {
+          "lesson_number": 5,
+          "title": "کارگاه متن پژوهی"
+        },
+        {
+          "lesson_number": 6,
+          "title": "شعرخوانی: صبح بی تو"
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "فصل ششم: ادبیات حماسی",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس دوازدهم: کاوۀ دادخواه"
+        },
+        {
+          "lesson_number": 2,
+          "title": "کارگاه متن پژوهی"
+        },
+        {
+          "lesson_number": 3,
+          "title": "گنج حکمت: کاردانی"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس سیزدهم: درس آزاد (ادبیات بومی)۲"
+        },
+        {
+          "lesson_number": 5,
+          "title": "کارگاه متن پژوهی"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس چهاردهم: حملۀ حیدری"
+        },
+        {
+          "lesson_number": 7,
+          "title": "کارگاه متن پژوهی"
+        },
+        {
+          "lesson_number": 8,
+          "title": "شعرخوانی: وطن"
+        }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "title": "فصل هفتم: ادبیات داستانی",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس پانزدهم: کبوتر طوق دار"
+        },
+        {
+          "lesson_number": 2,
+          "title": "کارگاه متن پژوهی"
+        },
+        {
+          "lesson_number": 3,
+          "title": "گنج حکمت: مهمانِ ناخوانده"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس شانزدهم: قصّۀ عینکم"
+        },
+        {
+          "lesson_number": 5,
+          "title": "کارگاه متن پژوهی"
+        },
+        {
+          "lesson_number": 6,
+          "title": "روان خوانی: دیدار"
+        }
+      ]
+    },
+    {
+      "chapter_number": 8,
+      "title": "فصل هشتم: ادبیات جهان",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس هفدهم: خاموشی دریا"
+        },
+        {
+          "lesson_number": 2,
+          "title": "کارگاه متن پژوهی"
+        },
+        {
+          "lesson_number": 3,
+          "title": "گنج حكمت: تجسّم عشق"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس هجدهم: خوان عدل"
+        },
+        {
+          "lesson_number": 5,
+          "title": "کارگاه متن پژوهی"
+        },
+        {
+          "lesson_number": 6,
+          "title": "روان خوانی: آذرباد"
+        },
+        {
+          "lesson_number": 7,
+          "title": "کتابنامه"
+        }
+      ]
+    }
+  ],
+  "front_matter": [
+    {
+      "title": "ستایش: لطف خدا"
+    }
+  ],
+  "back_matter": [
+    {
+      "title": "نیایش: الهی"
+    },
+    {
+      "title": "واژه نامه"
+    }
+  ],
+  "toc_pages": 2,
+  "extraction_method": "text",
+  "shared_across": [
+    "riazi",
+    "tajrobi",
+    "ensani",
+    "maarefi"
+  ]
+}

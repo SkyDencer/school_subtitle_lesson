@@ -1,0 +1,109 @@
+{
+  "grade": 4,
+  "branch": "primary",
+  "subject": "فارسی (چهارم)",
+  "book_code": "403",
+  "chapters": [
+    {
+      "chapter_number": null,
+      "title": "فصل بنجم: نام‌آوران",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "۸ ۸ نیایش"
+        },
+        {
+          "lesson_number": 2,
+          "title": "رس دهم: باغبچه‌ی اطفال ۳ واژه‌نامه"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس بازدهم: فرمانده دل‌ها"
+        },
+        {
+          "lesson_number": 4,
+          "title": "۹ درس دوازدهم: اتفاق"
+        },
+        {
+          "lesson_number": 5,
+          "title": "ساده"
+        },
+        {
+          "lesson_number": 6,
+          "title": "۹ فصل ششم:"
+        },
+        {
+          "lesson_number": 7,
+          "title": "راه زندگی"
+        },
+        {
+          "lesson_number": 8,
+          "title": "ت \"رس"
+        },
+        {
+          "lesson_number": 9,
+          "title": "سیزدهم: لطف حقق"
+        },
+        {
+          "lesson_number": 10,
+          "title": "تون و حفظ کن: امید"
+        },
+        {
+          "lesson_number": 11,
+          "title": "درس چهاردهم: لدب از کد آموختی"
+        },
+        {
+          "lesson_number": 12,
+          "title": "رس پانزدهم: ؟"
+        },
+        {
+          "lesson_number": 13,
+          "title": "شیر و موش"
+        },
+        {
+          "lesson_number": 14,
+          "title": "بخوان و #یندیش: هفت مروارید"
+        },
+        {
+          "lesson_number": 15,
+          "title": "مرخ"
+        }
+      ]
+    }
+  ],
+  "front_matter": [
+    {
+      "title": "سل چهارم: فرهن بو"
+    },
+    {
+      "title": "۸ فصل هفتم: علم غمز"
+    },
+    {
+      "title": "رس هشتم: درس آزاد و"
+    },
+    {
+      "title": "رس شانزدهم: ت"
+    },
+    {
+      "title": "۹ بخوان وحن"
+    },
+    {
+      "title": "تن"
+    },
+    {
+      "title": "مس هم درس ۸ مدرسه‌ی"
+    },
+    {
+      "title": "درس آزد + هفدهم: هوشمند"
+    },
+    {
+      "title": "۸ منل چم"
+    },
+    {
+      "title": "۸:قاضی کوچک"
+    }
+  ],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "ocr"
+}

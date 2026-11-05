@@ -1,0 +1,135 @@
+{
+  "grade": 12,
+  "branch": "tajrobi",
+  "subject": "مدیریت خانواده و سبک زندگی (پسران)",
+  "book_code": "112245",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "فصل اول: هویت و سبک زندگی",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس اول: هویت و آرمان"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس دوم: آزادی و میل"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس سوم: دوستی های مختلط"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس چهارم: عقل و آزادی"
+        },
+        {
+          "lesson_number": 5,
+          "title": "درس پنجم: حیا و بی اعتنایی"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس ششم: خویشتن داری"
+        },
+        {
+          "lesson_number": 7,
+          "title": "درس هفتم: احساس گناه"
+        },
+        {
+          "lesson_number": 8,
+          "title": "درس هشتم: قطع رابطه"
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "فصل دوم شیوه: های ارتباط با جنس مکمل",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس نهم: اصول تعامل دو جنس"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس دهم: رابطۀ عمیق و صمیمی زن و مرد"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس یازدهم: نامزدی"
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "فصل سوم: بلوغ و مرد زندگی",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس دوازدهم: پختگی عقلی"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس سیزدهم: پختگی اجتماعی ۱"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس چهاردهم: پختگی اجتماعی ۲"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس پانزدهم: پختگی اقتصادی"
+        },
+        {
+          "lesson_number": 5,
+          "title": "درس شانزدهم: پختگی عاطفی"
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "فصل چهارم مهارت: ها و آداب زندگی",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس هفدهم: انعطاف و مثبت نگری"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس هجدهم: مهارت حلّ اختالف"
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "فصل پنجم: انتخاب",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس نوزدهم: انگیزه ها و معیارهای انتخاب همسر"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس بیستم: زن زندگی"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس بیست و یکم: همتایی"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس بیست و دوم: شیوه های آشنایی برای ازدواج ۶۳۱"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text",
+  "shared_across": [
+    "riazi",
+    "tajrobi",
+    "ensani"
+  ]
+}

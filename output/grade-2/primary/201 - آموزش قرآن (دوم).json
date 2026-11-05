@@ -1,0 +1,98 @@
+{
+  "grade": 2,
+  "branch": "primary",
+  "subject": "آموزش قرآن (دوم)",
+  "book_code": "201",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "سخنی با والدین و آموزگاران"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس اوّل الف كوچك / سكون"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس دوم تشدید / اتّصاالت"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس سوم سوره ی حَمد / ك"
+        },
+        {
+          "lesson_number": 5,
+          "title": ".. .."
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس چهارم سوره ی ناس / ـه ، ه"
+        },
+        {
+          "lesson_number": 7,
+          "title": "درس پنجم سوره ی فَـلَـق / تنوین ها"
+        },
+        {
+          "lesson_number": 8,
+          "title": "یاد آوری ۱"
+        },
+        {
+          "lesson_number": 9,
+          "title": "درس ششم سوره ی توحید / ـه ، ـه ٰو"
+        },
+        {
+          "lesson_number": 10,
+          "title": "درس هفتم سوره ی نَـصر / فَتح مَكّه / ء (همزه)"
+        },
+        {
+          "lesson_number": 11,
+          "title": "درس هشتم سوره ی كوثر / ئـ / كودك خدا پرست"
+        },
+        {
+          "lesson_number": 12,
+          "title": "درس نهم سوره ی عَصر"
+        },
+        {
+          "lesson_number": 13,
+          "title": "درس دهم سوره ی فیل / اصحاب فیل / سوره ی ماعون"
+        },
+        {
+          "lesson_number": 14,
+          "title": "یاد آوری ۲"
+        },
+        {
+          "lesson_number": 15,
+          "title": "درس یازدهم سوره ی كافرون"
+        },
+        {
+          "lesson_number": 16,
+          "title": "درس دوازدهم سوره ی شرح"
+        },
+        {
+          "lesson_number": 17,
+          "title": "درس سیزدهم سوره ی تین / قهرمان بت شكن"
+        },
+        {
+          "lesson_number": 18,
+          "title": "درس چهاردهم سوره ی قدر / باغی میان آتش"
+        },
+        {
+          "lesson_number": 19,
+          "title": "یاد آوری ۳"
+        },
+        {
+          "lesson_number": 20,
+          "title": "سخن آخر"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

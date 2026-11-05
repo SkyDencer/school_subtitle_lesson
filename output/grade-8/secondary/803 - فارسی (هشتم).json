@@ -1,0 +1,141 @@
+{
+  "grade": 8,
+  "branch": "secondary",
+  "subject": "فارسی (هشتم)",
+  "book_code": "803",
+  "chapters": [
+    {
+      "chapter_number": 4,
+      "title": "فصل چهارم: نام ها و یادها ۶۷",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس نهم: نوجوان باهوش / آشپززادۀ وزیر / گریۀ امیر"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس دهم: قلم سحرآمیز / دو نامه"
+        },
+        {
+          "lesson_number": 3,
+          "title": "حکایت: نام خوش بو"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس یازدهم: پرچم داران"
+        },
+        {
+          "lesson_number": 5,
+          "title": "نام ها و یادها"
+        },
+        {
+          "lesson_number": 6,
+          "title": "شعرخوانی: ای وطن من"
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "فصل پنجم: اسالم و انقالب اسالمی ۸۹",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس دوازدهم: شیرِ حق"
+        },
+        {
+          "lesson_number": 2,
+          "title": "۹۳: حکایت اِن َشاء اهلل"
+        },
+        {
+          "lesson_number": 3,
+          "title": "اسالم و"
+        },
+        {
+          "lesson_number": 4,
+          "title": "سیزدهم: ادبیات انقالب / ادبیات انقالب ،درس"
+        },
+        {
+          "lesson_number": 5,
+          "title": "انقالب اسالمی"
+        },
+        {
+          "lesson_number": 6,
+          "title": "انقالب ادبیات"
+        },
+        {
+          "lesson_number": 7,
+          "title": "درس چهاردهم: یاد حسین"
+        },
+        {
+          "lesson_number": 8,
+          "title": "روان خوانی: شوق آموختن"
+        }
+      ]
+    },
+    {
+      "chapter_number": null,
+      "title": "فصل آزاد: ادبیات بومی)۲(۱۰۷",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس پانزدهم: درس آزاد"
+        }
+      ]
+    },
+    {
+      "chapter_number": null,
+      "title": "فصل آزاد: ادبیات بومی",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": ")۲("
+        },
+        {
+          "lesson_number": 2,
+          "title": "حکایت"
+        },
+        {
+          "lesson_number": 3,
+          "title": "روان خوانی: نام ها و جای ها"
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "فصل ششم: ادبیات جهان ۱۱۳",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس شانزدهم: پرندۀ آزادی / کودکان سنگ"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس هفدهم: راه خوشبختی"
+        },
+        {
+          "lesson_number": 3,
+          "title": "ادبیات جهان"
+        },
+        {
+          "lesson_number": 4,
+          "title": "روان خوانی: آن سوی پنجره"
+        },
+        {
+          "lesson_number": 5,
+          "title": "اعالم: ،اشخاص ،آثار مکان ها ۱۳۴"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [
+    {
+      "title": "نیایش ۱۲۷"
+    },
+    {
+      "title": "واژه نامه ۱۲۸"
+    }
+  ],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

@@ -1,0 +1,58 @@
+{
+  "grade": 11,
+  "branch": "maarefi",
+  "subject": "اخلاق اسلامی (2)",
+  "book_code": "111235",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس اوّل: اخلاق خدایی"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس دوم: جنگ دا خلی"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس سوم: سنگ‌ها را بردار!"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس جهارم: امید به باره پیم از نار"
+        },
+        {
+          "lesson_number": 5,
+          "title": "در بند دوست"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس ششم: درمان درد جان"
+        },
+        {
+          "lesson_number": 7,
+          "title": "درس هفتم: جقدر می‌ارزی؟"
+        },
+        {
+          "lesson_number": 8,
+          "title": "درس هشتم: آیین بی‌آزاری"
+        },
+        {
+          "lesson_number": 9,
+          "title": "درس نهم: شمع شوا"
+        },
+        {
+          "lesson_number": 10,
+          "title": "درس دهم: زیر نور ماه"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "ocr"
+}

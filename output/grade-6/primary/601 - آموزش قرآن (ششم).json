@@ -1,0 +1,166 @@
+{
+  "grade": 6,
+  "branch": "primary",
+  "subject": "آموزش قرآن (ششم)",
+  "book_code": "601",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "ــ ۴۱"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس هشتم سوره ی اَلرَّحمٰن، آیات ۲۶ تا ۳۴"
+        },
+        {
+          "lesson_number": 3,
+          "title": "سوره ی واقِعَه، آیات ۱ تا ۱۲"
+        },
+        {
+          "lesson_number": 4,
+          "title": "مردان پارسی"
+        },
+        {
+          "lesson_number": 5,
+          "title": "ــ ۴۶"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس نهم سوره ی واقِعَه ، آیات ۶۳ تا ۷۴"
+        },
+        {
+          "lesson_number": 7,
+          "title": "سوره ی حَـدید، آیات ۱ تا ۵"
+        },
+        {
+          "lesson_number": 8,
+          "title": "آب و آبادانی"
+        },
+        {
+          "lesson_number": 9,
+          "title": "ــ ۵۱"
+        },
+        {
+          "lesson_number": 10,
+          "title": "درس دهم سوره ی حَـدید، آیات ۶ تا ۹"
+        },
+        {
+          "lesson_number": 11,
+          "title": "سوره ی حَـدید، آیات ۱۶ تا ۱۸"
+        },
+        {
+          "lesson_number": 12,
+          "title": "ــ ۵۵"
+        },
+        {
+          "lesson_number": 13,
+          "title": "تولّدی دیگر"
+        },
+        {
+          "lesson_number": 14,
+          "title": "ــ ۵۷"
+        },
+        {
+          "lesson_number": 15,
+          "title": "یادآوری ۲"
+        },
+        {
+          "lesson_number": 16,
+          "title": "درس یازدهم سوره ی حَـدید، آیات ۲۵ و ۲۶"
+        },
+        {
+          "lesson_number": 17,
+          "title": "ــ ۶۲"
+        },
+        {
+          "lesson_number": 18,
+          "title": "سوره ی مُـجادِلَه، آیات ۱۱ تا ۱۳"
+        },
+        {
+          "lesson_number": 19,
+          "title": "مادر فلزّات"
+        },
+        {
+          "lesson_number": 20,
+          "title": "درس دوازدهم سوره ی مُـجادِلَه، آیات ۲۰ تا ۲۲"
+        },
+        {
+          "lesson_number": 21,
+          "title": "ــ ۶۷"
+        },
+        {
+          "lesson_number": 22,
+          "title": "سوره ی حَشـر، آیات ۱۸ تا ۲۱"
+        },
+        {
+          "lesson_number": 23,
+          "title": "حزب اللّٰه پیروز است ."
+        },
+        {
+          "lesson_number": 24,
+          "title": "ــ ۷۲"
+        },
+        {
+          "lesson_number": 25,
+          "title": "درس سیزدهم سوره ی حَشـر، آیات ۲۲ تا ۲۴"
+        },
+        {
+          "lesson_number": 26,
+          "title": "سوره ی صَفّ، آیات ۱ تا ۵"
+        },
+        {
+          "lesson_number": 27,
+          "title": "خدای تصویرگر"
+        },
+        {
+          "lesson_number": 28,
+          "title": "ــ ۷۷"
+        },
+        {
+          "lesson_number": 29,
+          "title": "درس چهاردهم سوره ی صَفّ، آیات ۶ تا ۹"
+        },
+        {
+          "lesson_number": 30,
+          "title": "سوره ی صَفّ، آیات ۱۰ تا ۱۳"
+        },
+        {
+          "lesson_number": 31,
+          "title": "همه تسبیح گوی او"
+        },
+        {
+          "lesson_number": 32,
+          "title": "یادآوری ۳"
+        },
+        {
+          "lesson_number": 33,
+          "title": "دعای ختم قرآن"
+        },
+        {
+          "lesson_number": 34,
+          "title": "ــ ۸۴"
+        },
+        {
+          "lesson_number": 35,
+          "title": "درس آخر قرآن در تابستان"
+        },
+        {
+          "lesson_number": 36,
+          "title": "سوره های مُطَفِّفین، نازعات و شعار هفته (پیام های قرآنی و احادیث نورانی)"
+        },
+        {
+          "lesson_number": 37,
+          "title": "ــ ۹۷"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

@@ -1,0 +1,94 @@
+{
+  "grade": 12,
+  "branch": "ensani",
+  "subject": "تحلیل فرهنگی",
+  "book_code": "112223",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "/ فصل اوّل / مفاهیم و کلیات"
+        },
+        {
+          "lesson_number": 2,
+          "title": "/ درس اوّل / چیستی فرهنگ"
+        },
+        {
+          "lesson_number": 3,
+          "title": "/ درس دوم / چرایی شناخت فرهنگ و تحلیل فرهنگی"
+        },
+        {
+          "lesson_number": 4,
+          "title": "/ درس سوم / چگونگی تحلیل فرهنگی"
+        },
+        {
+          "lesson_number": 5,
+          "title": "/ فصل دوم / تحوالت فرهنگی"
+        },
+        {
+          "lesson_number": 6,
+          "title": "/ درس اوّل / تغییرات و تحوالت فرهنگی"
+        },
+        {
+          "lesson_number": 7,
+          "title": "/ درس دوم / ارتباطات فرهنگی"
+        },
+        {
+          "lesson_number": 8,
+          "title": "/ درس سوم / نقش رسانه ها در تحوالت فرهنگی"
+        },
+        {
+          "lesson_number": 9,
+          "title": "/ فصل سوم / فرهنگ ما ایرانیان"
+        },
+        {
+          "lesson_number": 10,
+          "title": "/ درس اوّل / تداوم و پیوستگی فرهنگی ما ایرانیان"
+        },
+        {
+          "lesson_number": 11,
+          "title": "/ درس دوم / انسجام فرهنگی ما ایرانیان"
+        },
+        {
+          "lesson_number": 12,
+          "title": "/ درس سوم / فرهنگ ما ایرانیان"
+        },
+        {
+          "lesson_number": 13,
+          "title": "/ فصل چهارم / مسائل فرهنگی ایران"
+        },
+        {
+          "lesson_number": 14,
+          "title": "/ درس اوّل / فرهنگ و اقتصاد"
+        },
+        {
+          "lesson_number": 15,
+          "title": "/ درس دوم / فرهنگ و اخالق"
+        },
+        {
+          "lesson_number": 16,
+          "title": "/ درس سوم / فرهنگ و جمعیت"
+        },
+        {
+          "lesson_number": 17,
+          "title": "/ درس چهارم / ما و دگرگونی های فرهنگی"
+        },
+        {
+          "lesson_number": 18,
+          "title": "/ منابع مطالعاتی"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text",
+  "shared_across": [
+    "ensani",
+    "maarefi"
+  ]
+}

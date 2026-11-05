@@ -1,0 +1,110 @@
+{
+  "grade": 5,
+  "branch": "primary",
+  "subject": "آموزش قرآن (پنجم)",
+  "book_code": "501",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "صفحه"
+        },
+        {
+          "lesson_number": 2,
+          "title": "عنوان"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس"
+        },
+        {
+          "lesson_number": 4,
+          "title": "پیش گفتار"
+        },
+        {
+          "lesson_number": 5,
+          "title": "-۸ ۱"
+        },
+        {
+          "lesson_number": 6,
+          "title": "یادآوری"
+        },
+        {
+          "lesson_number": 7,
+          "title": "نماز در قرآن"
+        },
+        {
+          "lesson_number": 8,
+          "title": "خواندن روزانه ی قرآن، سوره ی لقمان ۱۵(ــ)۱۲"
+        },
+        {
+          "lesson_number": 9,
+          "title": "۹-۱۴"
+        },
+        {
+          "lesson_number": 10,
+          "title": "سوره ی لقمان ۱۹(ــ ۱۶) ، یادآوری وقف بر حرکات"
+        },
+        {
+          "lesson_number": 11,
+          "title": "خواندن روزانه ی قرآن، سوره ی اعراف ۷(ــ)۱"
+        },
+        {
+          "lesson_number": 12,
+          "title": "۱۵-۲۰"
+        },
+        {
+          "lesson_number": 13,
+          "title": "سوره ی اعراف ۱۴۳(ــ ۱۴۲ ، یادآوری وقف بر ـه) و ـه ی"
+        },
+        {
+          "lesson_number": 14,
+          "title": "خواندن روزانه ی قرآن، سوره ی اعراف ۲۰۴(ــ)۱۹۹"
+        },
+        {
+          "lesson_number": 15,
+          "title": "۲۱-۲۸"
+        },
+        {
+          "lesson_number": 16,
+          "title": "سوره ی بقره ۲۸۶(ــ ۲۸۵) ، یادآوری وقف ـة ة"
+        },
+        {
+          "lesson_number": 17,
+          "title": "قصّه ی آیه ها، بشارت"
+        },
+        {
+          "lesson_number": 18,
+          "title": "خواندن روزانه ی قرآن، سوره ی هود ۷۳(ــ)۶۹"
+        },
+        {
+          "lesson_number": 19,
+          "title": "۲۹-۳۴"
+        },
+        {
+          "lesson_number": 20,
+          "title": "سوره ی اِسراء ۳۸(ــ ۳۴) ، التقاء ساکنین"
+        },
+        {
+          "lesson_number": 21,
+          "title": "خواندن روزانه ی قرآن، سوره ی انعام ۱۶۴(ــ)۱۶۰"
+        },
+        {
+          "lesson_number": 22,
+          "title": "سوره ی یوسف (۵ ــ۱) ، یادآوری حروف مقطعه ۳۵-۴۰"
+        },
+        {
+          "lesson_number": 23,
+          "title": "خواندن روزانه ی قرآن، سوره ی مائده ۵۶(ــ)۵۴"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

@@ -1,0 +1,174 @@
+{
+  "grade": 4,
+  "branch": "primary",
+  "subject": "ریاضی (چهارم)",
+  "book_code": "405",
+  "chapters": [
+    {
+      "chapter_number": 4,
+      "title": "فصل ۴ اندازه: گیری",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "حلّ مسئله"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس اوّل: زاویه"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس دوم: اندازه گیری زاویه"
+        }
+      ]
+    },
+    {
+      "chapter_number": 1,
+      "title": "فصل ۱: اعداد و الگوها",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس سوم: اندازه گیری زمان"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس چهارم: اندازه گیری طول"
+        },
+        {
+          "lesson_number": 3,
+          "title": "مرور فصل"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس اوّل: عددنویسی"
+        },
+        {
+          "lesson_number": 5,
+          "title": "درس دوم: الگوها"
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "فصل ۵: عدد مخلوط و عدد اعشاری",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس سوم: ماشین ورودی ــ خروجی"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس چهارم: معرّفی میلیون"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس اوّل: عدد مخلوط"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس دوم: عدد اعشاری"
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "فصل ۲: کسر",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس سوم: جمع و تفریق اعشاری"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس چهارم: ارزش مکانی عددهای اعشاری"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس اوّل: شناخت کسرها"
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "فصل ۶ شکل: های هندسی",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس دوم: جمع و تفریق"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس سوم: تساوی کسرها"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس چهارم: ضرب عدد در کسر"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس اوّل: عمود ــ موازی"
+        },
+        {
+          "lesson_number": 5,
+          "title": "درس دوم: چهارضلعی ها"
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "فصل ۳: ضرب و تقسیم",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس سوم: مساحت متوازی االضالع و مثلث"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس چهارم: محیط و مساحت"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس اوّل: ضرب دو عدد دورقمی"
+        }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "title": "فصل ۷: آمار و احتمال",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس دوم: محاسبه ی حاصل ضرب"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس سوم: محاسبه های تقریبی"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس چهارم: تقسیم و بخش پذیری"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس اوّل: نمودار خطّ شکسته"
+        },
+        {
+          "lesson_number": 5,
+          "title": "درس پنجم: تقسیم بر عددهای یک رقمی"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس دوم: احتمال"
+        },
+        {
+          "lesson_number": 7,
+          "title": "درس ششم: تقسیم بر عددهای دورقمی"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

@@ -1,0 +1,79 @@
+{
+  "grade": 12,
+  "branch": "riazi",
+  "subject": "نگارش (3)",
+  "book_code": "112202",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس اوّل: خاطره نگاری"
+        },
+        {
+          "lesson_number": 2,
+          "title": "کارگاهِ نوشتن"
+        },
+        {
+          "lesson_number": 3,
+          "title": "مَثَل نویسی"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس دوم: نگارش ادبی ۱(): نثر ادبی"
+        },
+        {
+          "lesson_number": 5,
+          "title": "شعرگردانی"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس سوم: نگارش ادبی ۲(): قطعۀ ادبی"
+        },
+        {
+          "lesson_number": 7,
+          "title": "حکایت نگاری"
+        },
+        {
+          "lesson_number": 8,
+          "title": "درس چهارم: نامه نگاری"
+        },
+        {
+          "lesson_number": 9,
+          "title": "درس پنجم: نگارش علمی: مقاله نویسی)۱("
+        },
+        {
+          "lesson_number": 10,
+          "title": "درس ششم: نگارش علمی: مقاله نویسی)۲("
+        },
+        {
+          "lesson_number": 11,
+          "title": "کتابنامه"
+        }
+      ]
+    }
+  ],
+  "front_matter": [
+    {
+      "title": "پیشگفتار"
+    },
+    {
+      "title": "ستایش"
+    }
+  ],
+  "back_matter": [
+    {
+      "title": "نیایش"
+    }
+  ],
+  "toc_pages": 1,
+  "extraction_method": "text",
+  "shared_across": [
+    "riazi",
+    "tajrobi",
+    "ensani",
+    "maarefi"
+  ]
+}

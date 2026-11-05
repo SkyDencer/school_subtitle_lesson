@@ -1,0 +1,224 @@
+{
+  "grade": 3,
+  "branch": "primary",
+  "subject": "ریاضی (سوم)",
+  "book_code": "305",
+  "chapters": [
+    {
+      "chapter_number": 5,
+      "title": "فصل ۵: محیط و مساحت",
+      "lessons": []
+    },
+    {
+      "chapter_number": 1,
+      "title": "فصل ۱: الگوها",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "حلّ مسئله: الگویابی"
+        },
+        {
+          "lesson_number": 2,
+          "title": "حلّ مسئله: زیر مسئله"
+        },
+        {
+          "lesson_number": 3,
+          "title": "شمارش چندتا چندتا ۰۱"
+        },
+        {
+          "lesson_number": 4,
+          "title": "خط، نیم خط و پاره خط ۸۲"
+        },
+        {
+          "lesson_number": 5,
+          "title": "ماشین های ورودی ــ خروجی ۳۱"
+        },
+        {
+          "lesson_number": 6,
+          "title": "محیط ۸۵"
+        },
+        {
+          "lesson_number": 7,
+          "title": "ساعت در بعدازظهر ۶۱"
+        },
+        {
+          "lesson_number": 8,
+          "title": "اندازه ی سطح"
+        },
+        {
+          "lesson_number": 9,
+          "title": "الگوهای متقارن ۹۱"
+        },
+        {
+          "lesson_number": 10,
+          "title": "واحد اندازه گیری سطح ۱۹"
+        },
+        {
+          "lesson_number": 11,
+          "title": "مرور فصل ۲۲"
+        },
+        {
+          "lesson_number": 12,
+          "title": "مرور فصل"
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "فصل ۲: عددهای چهار رقمی",
+      "lessons": []
+    },
+    {
+      "chapter_number": 6,
+      "title": "فصل ۶: جمع و تفریق",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "حلّ مسئله: حلّ مسئله ی ساده تر"
+        },
+        {
+          "lesson_number": 2,
+          "title": "حلّ مسئله: الگوسازی"
+        },
+        {
+          "lesson_number": 3,
+          "title": "مقایسه ی عددها ۰۰۱"
+        },
+        {
+          "lesson_number": 4,
+          "title": "معرّفی عدد هزار"
+        },
+        {
+          "lesson_number": 5,
+          "title": "جمع و تفریق"
+        },
+        {
+          "lesson_number": 6,
+          "title": "ارزش مکانی ۱۳"
+        },
+        {
+          "lesson_number": 7,
+          "title": "جمع در جدول ارزش مکانی ۶۰۱"
+        },
+        {
+          "lesson_number": 8,
+          "title": "ارزش پول ۴۳"
+        },
+        {
+          "lesson_number": 9,
+          "title": "تفریق در جدول ارزش مکانی ۹۰۱"
+        },
+        {
+          "lesson_number": 10,
+          "title": "تقریب اعداد ۷۳"
+        }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "title": "فصل ۷: آمار و احتمال",
+      "lessons": []
+    },
+    {
+      "chapter_number": 3,
+      "title": "فصل ۳: عددهای کسری",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "حلّ مسئله: رسم شکل"
+        },
+        {
+          "lesson_number": 2,
+          "title": "حلّ مسئله: حدس و آزمایش"
+        },
+        {
+          "lesson_number": 3,
+          "title": "کسر ۶۴"
+        },
+        {
+          "lesson_number": 4,
+          "title": "جدول داده ها"
+        },
+        {
+          "lesson_number": 5,
+          "title": "کاربرد کسر در اندازه گیری ۹۴"
+        },
+        {
+          "lesson_number": 6,
+          "title": "احتمال ۱۲۱"
+        },
+        {
+          "lesson_number": 7,
+          "title": "تساوی کسرها ۲۵"
+        },
+        {
+          "lesson_number": 8,
+          "title": "نمودار دایره ای ۴۲۱"
+        },
+        {
+          "lesson_number": 9,
+          "title": "مقایسه ی کسرها ۵۵"
+        },
+        {
+          "lesson_number": 10,
+          "title": "انتخاب نمودار ۷۲۱"
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "فصل ۴: ضرب و تقسیم",
+      "lessons": []
+    },
+    {
+      "chapter_number": 8,
+      "title": "فصل ۸: ضرب عددها",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "حلّ مسئله: روش های نمادین"
+        },
+        {
+          "lesson_number": 2,
+          "title": "حلّ مسئله: حذف حالت های نامطلوب"
+        },
+        {
+          "lesson_number": 3,
+          "title": "ضرب ۴۶"
+        },
+        {
+          "lesson_number": 4,
+          "title": "ضرب در عدد ۰۱ ۶۳۱"
+        },
+        {
+          "lesson_number": 5,
+          "title": "ضرب عددهای یک رقمی ۷۶"
+        },
+        {
+          "lesson_number": 6,
+          "title": "ضرب عددهای یک رقمی در چندرقمی ۹۳۱"
+        },
+        {
+          "lesson_number": 7,
+          "title": "خاصیت های ضرب ۰۷"
+        },
+        {
+          "lesson_number": 8,
+          "title": "محاسبه ی ضرب ۲۴۱"
+        },
+        {
+          "lesson_number": 9,
+          "title": "تقسیم ۳۷"
+        },
+        {
+          "lesson_number": 10,
+          "title": "تقسیم با باقی مانده ۵۴۱"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

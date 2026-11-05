@@ -1,0 +1,58 @@
+{
+  "grade": 3,
+  "branch": "primary",
+  "subject": "هدیه های آسمان (ویژه اقلیت های دینی) - سوم",
+  "book_code": "320",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس اوّل: آستین های خالی"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس دوم: غروب یک روز بهاری"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس سوم: در کاخ نمرود"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس چهارم: گندم از گندم بروید"
+        },
+        {
+          "lesson_number": 5,
+          "title": "درس پنجم: باغ همیشه بهار"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس ششم: آینه ی سخن گو"
+        },
+        {
+          "lesson_number": 7,
+          "title": "درس هفتم: به جای سالم"
+        },
+        {
+          "lesson_number": 8,
+          "title": "درس هشتم: لباس های ما"
+        },
+        {
+          "lesson_number": 9,
+          "title": "درس نهم: او مهربان است"
+        },
+        {
+          "lesson_number": 10,
+          "title": "درس دهم: بچّه های طبیعت"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

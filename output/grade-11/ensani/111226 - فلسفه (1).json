@@ -1,0 +1,210 @@
+{
+  "grade": 11,
+  "branch": "ensani",
+  "subject": "فلسفه (1)",
+  "book_code": "111226",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "فصل ۱: فلسفه و ابعاد آن",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس ۸: نگاهی به تاریخچه معرفت"
+        },
+        {
+          "lesson_number": 2,
+          "title": "الف) دورۀ یونان باستان"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس ۱: چیستی فلسفه"
+        },
+        {
+          "lesson_number": 4,
+          "title": "ب) دورۀ شکوفایی فلسفه در جهان اسالم و ایران"
+        },
+        {
+          "lesson_number": 5,
+          "title": "انسان و تفکر"
+        },
+        {
+          "lesson_number": 6,
+          "title": "ج) دورۀ جدید اروپا"
+        },
+        {
+          "lesson_number": 7,
+          "title": "دو مرتبه از تفکر"
+        },
+        {
+          "lesson_number": 8,
+          "title": "دو جریان فکری در دورۀ جدید اروپا"
+        },
+        {
+          "lesson_number": 9,
+          "title": "دانش فلسفه"
+        },
+        {
+          "lesson_number": 10,
+          "title": "حرکت به سوی تجربه گرایی مطلق"
+        },
+        {
+          "lesson_number": 11,
+          "title": "واژۀ فلسفه"
+        },
+        {
+          "lesson_number": 12,
+          "title": "رشد اندیشۀ نسبی گرایی"
+        },
+        {
+          "lesson_number": 13,
+          "title": "ویژگی های فلسفه"
+        },
+        {
+          "lesson_number": 14,
+          "title": "ظهور پراگماتیسم"
+        },
+        {
+          "lesson_number": 15,
+          "title": "درس ۲ ریشه و شاخه: های فلسفه"
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "فصل ۳: انسان",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "بخش اصلی و ریشه ای فلسفه"
+        },
+        {
+          "lesson_number": 2,
+          "title": "شاخه های فلسفه"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس ۹: چیستی انسان)۱("
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس ۳: فلسفه و زندگی"
+        },
+        {
+          "lesson_number": 5,
+          "title": "حقیقت انسان چیست؟"
+        },
+        {
+          "lesson_number": 6,
+          "title": "معنای زندگی"
+        },
+        {
+          "lesson_number": 7,
+          "title": "درس ۱۰: چیستی انسان)۲("
+        },
+        {
+          "lesson_number": 8,
+          "title": "برخی فواید تفکر فلسفی"
+        },
+        {
+          "lesson_number": 9,
+          "title": "دیدگاه فیلسوفان مسلمان دربارۀ حقیقت انسان"
+        },
+        {
+          "lesson_number": 10,
+          "title": "درس ۴: آغاز تاریخی فلسفه"
+        },
+        {
+          "lesson_number": 11,
+          "title": "از جانب باال"
+        },
+        {
+          "lesson_number": 12,
+          "title": "فلسفه در یونان"
+        },
+        {
+          "lesson_number": 13,
+          "title": "حقیقت نورانی نفس"
+        },
+        {
+          "lesson_number": 14,
+          "title": "سوفیست ها"
+        },
+        {
+          "lesson_number": 15,
+          "title": "تا بی نهایت"
+        },
+        {
+          "lesson_number": 16,
+          "title": "درس ۵: زندگی بر اساس اندیشه"
+        },
+        {
+          "lesson_number": 17,
+          "title": "درس ۱۱ انسان، موجود اخالق: گرا"
+        },
+        {
+          "lesson_number": 18,
+          "title": "سقراط در برابر دادگاه"
+        },
+        {
+          "lesson_number": 19,
+          "title": "فعل طبیعی و فعل اخالقی"
+        },
+        {
+          "lesson_number": 20,
+          "title": "برخی دیدگاه ها در معیار فعل اخالقی"
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "فصل ۲: معرفت و شناخت",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "کتاب شناسی"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس ۶: امکان شناخت"
+        },
+        {
+          "lesson_number": 3,
+          "title": "چیستی معرفت"
+        },
+        {
+          "lesson_number": 4,
+          "title": "امکان معرفت"
+        },
+        {
+          "lesson_number": 5,
+          "title": "پیشرفت پیوستۀ دانش انسان"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس ۷: ابزارهای شناخت"
+        },
+        {
+          "lesson_number": 7,
+          "title": "۱ . حس"
+        },
+        {
+          "lesson_number": 8,
+          "title": "۲ . عقل"
+        },
+        {
+          "lesson_number": 9,
+          "title": "۳ . قلب"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text",
+  "shared_across": [
+    "ensani",
+    "maarefi"
+  ]
+}

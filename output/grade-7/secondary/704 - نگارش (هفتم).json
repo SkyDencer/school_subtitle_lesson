@@ -1,0 +1,94 @@
+{
+  "grade": 7,
+  "branch": "secondary",
+  "subject": "نگارش (هفتم)",
+  "book_code": "704",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس پنجم: بندهای بخش میانی (بدنه)!"
+        },
+        {
+          "lesson_number": 2,
+          "title": "فعالیت‌های نگارشی"
+        },
+        {
+          "lesson_number": 3,
+          "title": "۲ ۵ درست‌نویسی"
+        },
+        {
+          "lesson_number": 4,
+          "title": "۴ حکایت‌نگاری"
+        },
+        {
+          "lesson_number": 5,
+          "title": "درس ششم: جملة موضوع"
+        },
+        {
+          "lesson_number": 6,
+          "title": "۷۱ | فعالیت‌های نگارشی"
+        },
+        {
+          "lesson_number": 7,
+          "title": "۲ (درست‌نویسی"
+        },
+        {
+          "lesson_number": 8,
+          "title": "۷۶مَثل‌نویسی"
+        },
+        {
+          "lesson_number": 9,
+          "title": "درس هفتم: راهی برای نظم‌دادن به ذهن و نوشته ‏"
+        },
+        {
+          "lesson_number": 10,
+          "title": "۱۸۲ فعالیت‌های نگارشی"
+        },
+        {
+          "lesson_number": 11,
+          "title": "۵ درست‌نویسی"
+        },
+        {
+          "lesson_number": 12,
+          "title": "۶ تصویرنویسی"
+        },
+        {
+          "lesson_number": 13,
+          "title": "درس هشتم: روشی برای نوشتن دربارة موضوع‌های ذهنی ‏"
+        },
+        {
+          "lesson_number": 14,
+          "title": "۱ فعالیت‌های نگارشی"
+        },
+        {
+          "lesson_number": 15,
+          "title": "۴۱ درست‌نویسی"
+        },
+        {
+          "lesson_number": 16,
+          "title": "۲ حکایت‌نگاری"
+        },
+        {
+          "lesson_number": 17,
+          "title": "۸ پیوست: شیوه‌نامة ارزش‌یابی"
+        },
+        {
+          "lesson_number": 18,
+          "title": "۸ کتاب‌نامه \""
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [
+    {
+      "title": "نیایش ع]"
+    }
+  ],
+  "toc_pages": 1,
+  "extraction_method": "ocr"
+}

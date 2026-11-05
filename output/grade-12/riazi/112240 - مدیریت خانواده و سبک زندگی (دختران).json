@@ -1,0 +1,68 @@
+{
+  "grade": 12,
+  "branch": "riazi",
+  "subject": "مدیریت خانواده و سبک زندگی (دختران)",
+  "book_code": "112240",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "/ صحنه اوّل / زندگی با طعم دخترانه"
+        },
+        {
+          "lesson_number": 2,
+          "title": "/ صحنه دوم / زندگی با طعم رضایت"
+        },
+        {
+          "lesson_number": 3,
+          "title": "/ صحنه سوم / زندگی با طعم تردید"
+        },
+        {
+          "lesson_number": 4,
+          "title": "/ صحنه چهارم / زندگی با طعم پختگی"
+        },
+        {
+          "lesson_number": 5,
+          "title": "/ صحنه پنجم / زندگی با طعم پشیمانی"
+        },
+        {
+          "lesson_number": 6,
+          "title": "/ صحنه ششم / زندگی با طعم آرامش"
+        },
+        {
+          "lesson_number": 7,
+          "title": "/ صحنه هفتم / زندگی با طعم انتخاب"
+        },
+        {
+          "lesson_number": 8,
+          "title": "/ صحنه هشتم / زندگی با چاشنی اختالف"
+        },
+        {
+          "lesson_number": 9,
+          "title": "/ صحنه نهم / زندگی با طعم مهربانی"
+        },
+        {
+          "lesson_number": 10,
+          "title": "/ صحنه دهم / زندگی با طعم مسئولیّت"
+        },
+        {
+          "lesson_number": 11,
+          "title": "/ منابع پیشنهادی برای مطالعه"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text",
+  "shared_across": [
+    "riazi",
+    "tajrobi",
+    "ensani",
+    "maarefi"
+  ]
+}

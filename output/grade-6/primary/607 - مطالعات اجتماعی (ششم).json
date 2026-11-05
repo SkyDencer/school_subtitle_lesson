@@ -1,0 +1,68 @@
+{
+  "grade": 6,
+  "branch": "primary",
+  "subject": "مطالعات اجتماعی (ششم)",
+  "book_code": "607",
+  "chapters": [
+    {
+      "chapter_number": null,
+      "title": "فصل اوّل: دوستان ما",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "- دوستی"
+        },
+        {
+          "lesson_number": 2,
+          "title": "- آداب دوستی"
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "فصل دوم: تصمیم گیری",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "- تصمیم گیری چیست؟"
+        },
+        {
+          "lesson_number": 2,
+          "title": "- چگونه تصمیم بگیریم؟"
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "فصل سوم: کشاورزی در ایران",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "- ۵ عوامل مؤثّر در کشاورزی"
+        },
+        {
+          "lesson_number": 2,
+          "title": "- محصوالت کشاورزی، از تولید تا مصرف"
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "فصل چهارم: ایران و منابع انرژی",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "-۷ طالی سیاه"
+        },
+        {
+          "lesson_number": 2,
+          "title": "- انرژی را بهتر مصرف کنیم"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

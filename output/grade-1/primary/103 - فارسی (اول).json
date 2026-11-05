@@ -1,0 +1,266 @@
+{
+  "grade": 1,
+  "branch": "primary",
+  "subject": "فارسی (اول)",
+  "book_code": "103",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "با هم بخوانیم (ما کودکانیم)"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس دوازدهم قـ ق ــ لـ ل"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس سىزدهم جـ ج ــ ــُـ استثنا"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس چهاردهم هـ ـهـ ـه ه ــ چـ چ"
+        },
+        {
+          "lesson_number": 5,
+          "title": "بخش ۱ نگاره: ها"
+        },
+        {
+          "lesson_number": 6,
+          "title": "با هم بخوانیم (جشن در آسمان)"
+        },
+        {
+          "lesson_number": 7,
+          "title": "ــ به خانه ى ما خوش آمدى"
+        },
+        {
+          "lesson_number": 8,
+          "title": "درس پانزدهم ژ ــ خوا"
+        },
+        {
+          "lesson_number": 9,
+          "title": "با هم بخوانیم (خدای مهربان)"
+        },
+        {
+          "lesson_number": 10,
+          "title": "روان خوانى"
+        },
+        {
+          "lesson_number": 11,
+          "title": "ــ بچّه ها، آماده!"
+        },
+        {
+          "lesson_number": 12,
+          "title": "ــ قرآن ۷۸"
+        },
+        {
+          "lesson_number": 13,
+          "title": "ــ ىك و دو و سه، راه مدرسه"
+        },
+        {
+          "lesson_number": 14,
+          "title": "ــ میهن ما ۷۹"
+        },
+        {
+          "lesson_number": 15,
+          "title": "ــ به مدرسه رسىدمى"
+        },
+        {
+          "lesson_number": 16,
+          "title": "با هم بخوانیم (راهِ مدرسه)"
+        },
+        {
+          "lesson_number": 17,
+          "title": "بخش ۳ آموزش نشانه: ها)۲("
+        },
+        {
+          "lesson_number": 18,
+          "title": "ــ از كالس ما چه خبر؟"
+        },
+        {
+          "lesson_number": 19,
+          "title": "درس شانزدهم در بازار « تشدید ــّـ » ۸۱"
+        },
+        {
+          "lesson_number": 20,
+          "title": "ــ بازى، بازى، متاشا"
+        },
+        {
+          "lesson_number": 21,
+          "title": "درس هفدهم صدایِ موج « صـ ص » ۸۴"
+        },
+        {
+          "lesson_number": 22,
+          "title": "ــ بَه بَه چه روستاىى!"
+        },
+        {
+          "lesson_number": 23,
+          "title": "ــ سفرِ دل پذیر « ذ » ۸۵"
+        },
+        {
+          "lesson_number": 24,
+          "title": "با هم بخوانیم (سبز و سبز و سبز)"
+        },
+        {
+          "lesson_number": 25,
+          "title": "با هم بخوانیم (دریا)"
+        },
+        {
+          "lesson_number": 26,
+          "title": "ــ چه دنىاى قشنگى!"
+        },
+        {
+          "lesson_number": 27,
+          "title": "درس هجدهم علی و معصومه « عـ ـعـ ـع ع » ۸۸"
+        },
+        {
+          "lesson_number": 28,
+          "title": "ــ در مسجد محلّه"
+        },
+        {
+          "lesson_number": 29,
+          "title": "ــ مثلِ خورشید « ثـ ث » ۹۰"
+        },
+        {
+          "lesson_number": 30,
+          "title": "ــ نوروز در خانه ی ما"
+        },
+        {
+          "lesson_number": 31,
+          "title": "درس نوزدهم حَلَزون « حـ ح » ۹۲"
+        },
+        {
+          "lesson_number": 32,
+          "title": "با هم بخوانیم (انار)"
+        },
+        {
+          "lesson_number": 33,
+          "title": "با هم بخوانیم)....("
+        },
+        {
+          "lesson_number": 34,
+          "title": "بخش ۲ آموزش نشانه: ها)۱("
+        },
+        {
+          "lesson_number": 35,
+          "title": "درس بىستم رضا « ضـ ض » ۹۵"
+        },
+        {
+          "lesson_number": 36,
+          "title": "ــ خاطرات انقالب « ط » ۹۶"
+        },
+        {
+          "lesson_number": 37,
+          "title": "درس اوّل آ ا ــ بـ ب"
+        },
+        {
+          "lesson_number": 38,
+          "title": "با هم بخوانیم (جشن بهمن) ۹۹"
+        },
+        {
+          "lesson_number": 39,
+          "title": "درس دوم اَ ـَـ ــ د"
+        },
+        {
+          "lesson_number": 40,
+          "title": "با هم بخوانیم (‌مهربان تر از مادر)"
+        },
+        {
+          "lesson_number": 41,
+          "title": "درس بىست و ىكم"
+        },
+        {
+          "lesson_number": 42,
+          "title": "ــ الك پشت و مرغابى ها غـ ـغـ ـغ غ »« ۱۰۰"
+        },
+        {
+          "lesson_number": 43,
+          "title": "درس سوم مـ م ــ سـ س"
+        },
+        {
+          "lesson_number": 44,
+          "title": "درس آزاد محلّ زندگی من ۱۰۳"
+        },
+        {
+          "lesson_number": 45,
+          "title": "درس چهارم او و ــ تـ ت"
+        },
+        {
+          "lesson_number": 46,
+          "title": "درس بىست و دوم پیامبر مهربان « ظ » ۱۰۴"
+        },
+        {
+          "lesson_number": 47,
+          "title": "درس پنجم ر ــ نـ ن"
+        },
+        {
+          "lesson_number": 48,
+          "title": "با هم بخوانیم (پیغمبر ما) ۱۰۷"
+        },
+        {
+          "lesson_number": 49,
+          "title": "با هم بخوانیم (زردآلو)"
+        },
+        {
+          "lesson_number": 50,
+          "title": "ــ جدول الفبای فارسی ۱۰۸"
+        },
+        {
+          "lesson_number": 51,
+          "title": "درس ششم اىـ ىـ ى اى ــ ز"
+        },
+        {
+          "lesson_number": 52,
+          "title": "با هم بخوانیم (ای ایران)"
+        },
+        {
+          "lesson_number": 53,
+          "title": "درس هفتم اِ ــِ ـه (‍ ‍ ـ ه) ه ــ شـ ش"
+        },
+        {
+          "lesson_number": 54,
+          "title": "ــ شاد ممی و پاک و خندان ۱۱۰"
+        },
+        {
+          "lesson_number": 55,
+          "title": "درس هشتم ىـ ى ــ اُ ـُـ"
+        },
+        {
+          "lesson_number": 56,
+          "title": "ــ چهار فصل ۱۱۱"
+        },
+        {
+          "lesson_number": 57,
+          "title": "درس نهم كـ ك ــ و"
+        },
+        {
+          "lesson_number": 58,
+          "title": "ــ داستان … ۱۱۳"
+        },
+        {
+          "lesson_number": 59,
+          "title": "درس دهم پـ پ ــ گـ گ"
+        },
+        {
+          "lesson_number": 60,
+          "title": "درس ىازدهم فـ ف ــ خـ خ"
+        }
+      ]
+    }
+  ],
+  "front_matter": [
+    {
+      "title": "مقدّمه"
+    }
+  ],
+  "back_matter": [
+    {
+      "title": "نیایش ۱۱۴"
+    }
+  ],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

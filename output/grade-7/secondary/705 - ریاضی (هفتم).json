@@ -1,0 +1,125 @@
+{
+  "grade": 7,
+  "branch": "secondary",
+  "subject": "ریاضی (هفتم)",
+  "book_code": "705",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "فصل ۱ ــ راهبردهای حل مسئله",
+      "lessons": []
+    },
+    {
+      "chapter_number": 2,
+      "title": "فصل ۲ ــ عددهای صحیح",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "معرفی عددهای عالمت دار"
+        },
+        {
+          "lesson_number": 2,
+          "title": "جمع و تفریق عددهای صحیح)۱("
+        },
+        {
+          "lesson_number": 3,
+          "title": "جمع و تفریق عددهای صحیح)۲("
+        },
+        {
+          "lesson_number": 4,
+          "title": "ضرب و تقسیم عددهای صحیح"
+        },
+        {
+          "lesson_number": 5,
+          "title": "مرور فصل ۲"
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "فصل ۳ ــ جبر و معادله",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "الگوهای عددی"
+        },
+        {
+          "lesson_number": 2,
+          "title": "عبارت های جبری"
+        },
+        {
+          "lesson_number": 3,
+          "title": "مقدار عددی یک عبارت جبری"
+        },
+        {
+          "lesson_number": 4,
+          "title": "معادله"
+        },
+        {
+          "lesson_number": 5,
+          "title": "مرور فصل ۳"
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "فصل ۴ ــ هندسه و استدالل",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "روابط بین پاره خط ها"
+        },
+        {
+          "lesson_number": 2,
+          "title": "روابط بین زاویه ها"
+        },
+        {
+          "lesson_number": 3,
+          "title": "تبدیالت هندسی (انتقال، تقارن، دوران)"
+        },
+        {
+          "lesson_number": 4,
+          "title": "شکل های مساوی (هم نهشت)"
+        },
+        {
+          "lesson_number": 5,
+          "title": "مرور فصل ۴"
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "فصل ۵ ــ شمارنده ها و اعداد اول",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "عدد اول"
+        },
+        {
+          "lesson_number": 2,
+          "title": "شمارندهٔ اول"
+        },
+        {
+          "lesson_number": 3,
+          "title": "بزرگ ترین شمارندهٔ مشترک"
+        },
+        {
+          "lesson_number": 4,
+          "title": "کوچک ترین مضرب مشترک"
+        },
+        {
+          "lesson_number": 5,
+          "title": "مرور فصل ۵"
+        }
+      ]
+    }
+  ],
+  "front_matter": [
+    {
+      "title": "سخنی با دانش آموز"
+    }
+  ],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

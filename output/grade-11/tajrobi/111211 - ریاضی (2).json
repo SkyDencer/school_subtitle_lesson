@@ -1,0 +1,93 @@
+{
+  "grade": 11,
+  "branch": "tajrobi",
+  "subject": "ریاضی (2)",
+  "book_code": "111211",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "فصل ۱- هندسة تحلیلی جبر |",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "۵ درس دوم - معادلةٌ درجه دوم و تابع درجه۲ |"
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "فصل ۲- هندسه |",
+      "lessons": []
+    },
+    {
+      "chapter_number": 2,
+      "title": "فصل ۲ تابع |",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "م درس اول آثمنایی با برخی از انواع توابع"
+        },
+        {
+          "lesson_number": 2,
+          "title": "تابع تابع یک به یک"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس دوم - وارون و |"
+        },
+        {
+          "lesson_number": 4,
+          "title": "۰ درس سوم - اعمال جبری روی توابع |"
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "فصل ۴- مثلثات |",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس اول - واحدهای اندازه‌گیری زاویه |"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس دوم - روابط تکمیلی بین نسبت‌های مثلئاتی |"
+        },
+        {
+          "lesson_number": 3,
+          "title": "۹ درس سوم - توابع مثلثاتی"
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "فصل ۵- توابع نمایی و لگاریتمی |",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "۸ درس اول- تابع نمایی و ویژگی‌های آن | ۹۶‏"
+        },
+        {
+          "lesson_number": 2,
+          "title": "۶ درس دوم تابع لگاریتمی و ویژگی‌های آن |"
+        },
+        {
+          "lesson_number": 3,
+          "title": "سوم - نمودارها کاربردهای توابع نمایی و لگاریتمی"
+        },
+        {
+          "lesson_number": 4,
+          "title": "۶ درس - و |"
+        }
+      ]
+    }
+  ],
+  "front_matter": [
+    {
+      "title": "فهسرست"
+    }
+  ],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "ocr"
+}

@@ -1,0 +1,128 @@
+{
+  "grade": 3,
+  "branch": "primary",
+  "subject": "فارسی (سوم)",
+  "book_code": "303",
+  "chapters": [
+    {
+      "chapter_number": 7,
+      "title": "فصل هفتم: طیییت",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "۱ ۰ تصل ()"
+        },
+        {
+          "lesson_number": 2,
+          "title": "۱ چهارم: راه ۱ زندگی درس پانزدم: دیا"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس شانزدهم: اگر جنگل ناش"
+        },
+        {
+          "lesson_number": 4,
+          "title": "۱ ۳ بخوان حفظ کن:"
+        },
+        {
+          "lesson_number": 5,
+          "title": "و لحظه‌ی سبز دعا"
+        },
+        {
+          "lesson_number": 6,
+          "title": "۱ درس نبهم: بوی نر گس درس هفدهم: چشی‌های آسمان"
+        },
+        {
+          "lesson_number": 7,
+          "title": "۱ ۲ بخوان ك بخوان آفرینش"
+        },
+        {
+          "lesson_number": 8,
+          "title": "و بیندیش: حوض فیروزه‌ای ۹ و بیندیش: حلزون"
+        },
+        {
+          "lesson_number": 9,
+          "title": "۶۲ مثل حکایت"
+        },
+        {
+          "lesson_number": 10,
+          "title": "۱ ۵ تصل"
+        },
+        {
+          "lesson_number": 11,
+          "title": "۱ پنجم: هنر و ادب"
+        },
+        {
+          "lesson_number": 12,
+          "title": "۰ ۹ نیایس"
+        },
+        {
+          "lesson_number": 13,
+          "title": "۱ درس دهم: یار مهربان اژه‌نامه"
+        },
+        {
+          "lesson_number": 14,
+          "title": "۱ ۸ ون و حنظ کن: ناش دنا"
+        },
+        {
+          "lesson_number": 15,
+          "title": "۱ عر درس بازدهم:"
+        },
+        {
+          "lesson_number": 16,
+          "title": "نویسنده‌ی بزرگ"
+        },
+        {
+          "lesson_number": 17,
+          "title": "۱ بخوان ببدیش: خواب"
+        },
+        {
+          "lesson_number": 18,
+          "title": "۲ ۶ خلیفد"
+        },
+        {
+          "lesson_number": 19,
+          "title": "۱ ات"
+        }
+      ]
+    }
+  ],
+  "front_matter": [
+    {
+      "title": "۱ ۱ فصل سوم:"
+    },
+    {
+      "title": "۱ اخلاق \"۳ فردی س اجتماعی درس دوازدهم: ایران"
+    },
+    {
+      "title": "۸۹ درس پنجم: بلدرچین عزیز"
+    },
+    {
+      "title": "۱ #رس سیزدهم: درس ۱ آزاد"
+    },
+    {
+      "title": "۱ و بر ۳ بخوان حفظ کن: وطلن"
+    },
+    {
+      "title": "درس ششم: فداکاران س و"
+    },
+    {
+      "title": "۱ (وان حفظ کن: بل درس چههاردهم: ایران آباد"
+    },
+    {
+      "title": "۱ و بر ۹ و بیندیش: بوی سیب"
+    },
+    {
+      "title": "درس هفتم: کار نیک تون یر"
+    },
+    {
+      "title": "۱ (۹ یندیش: کوپوا ۶ حکایت و"
+    },
+    {
+      "title": "وان و ری"
+    }
+  ],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "ocr"
+}

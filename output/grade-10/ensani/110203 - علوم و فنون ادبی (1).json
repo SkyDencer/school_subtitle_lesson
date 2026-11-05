@@ -1,0 +1,122 @@
+{
+  "grade": 10,
+  "branch": "ensani",
+  "subject": "علوم و فنون ادبی (1)",
+  "book_code": "110203",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "فصل یکم:",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس یکم: مبانی تحلیل متن"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس دوم سازه: ها و عوامل تأثیرگذار در شعر فارسی"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس سوم واج: آرایی، واژه آرایی"
+        },
+        {
+          "lesson_number": 4,
+          "title": "کارگاه تحلیل فصل اوّل"
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "فصل دوم:",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس چهارم تاریخ ادبیات پیش از اسالم و قرن: های اوّلیه هجری"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس پنجم هماهنگی پاره: های کالم"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس ششم: سجع و انواع آن"
+        },
+        {
+          "lesson_number": 4,
+          "title": "کارگاه تحلیل فصل دوم"
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "فصل سوم:",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس هفتم: سبک و سبک شناسی (سبک خراسانی)"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس هشتم: وزن شعر فارسی"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس نهم: موازنه و ترصیع"
+        },
+        {
+          "lesson_number": 4,
+          "title": "کارگاه تحلیل فصل سوم"
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "فصل چهارم:",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس دهم: زبان و ادبیات فارسی در سده های پنجم و ششم و ویژگی های سبکی آن"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس یازدهم: قافیه"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس دوازدهم: جناس و انواع آن"
+        },
+        {
+          "lesson_number": 4,
+          "title": "کارگاه تحلیل فصل چهارم"
+        },
+        {
+          "lesson_number": 5,
+          "title": "کتابنامه"
+        }
+      ]
+    }
+  ],
+  "front_matter": [
+    {
+      "title": "پیشگفتار: سخنی با دبیران ارجمند"
+    },
+    {
+      "title": "ستایش: ای بی نشان"
+    },
+    {
+      "title": "علوم و فنون ادبی)۱("
+    }
+  ],
+  "back_matter": [
+    {
+      "title": "نیایش: به امید تو"
+    }
+  ],
+  "toc_pages": 1,
+  "extraction_method": "text",
+  "shared_across": [
+    "ensani",
+    "maarefi"
+  ]
+}

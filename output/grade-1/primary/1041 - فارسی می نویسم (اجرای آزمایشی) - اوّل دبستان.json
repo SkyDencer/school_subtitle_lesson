@@ -1,0 +1,38 @@
+{
+  "grade": 1,
+  "branch": "primary",
+  "subject": "فارسی می نویسم (اجرای آزمایشی) - اوّل دبستان",
+  "book_code": "1041",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "‌نقشه ی گنج"
+        },
+        {
+          "lesson_number": 2,
+          "title": "مَن۱۲"
+        },
+        {
+          "lesson_number": 3,
+          "title": "کِلاس۲۰"
+        },
+        {
+          "lesson_number": 4,
+          "title": "زِندِگی دَر مَدرِسه۲۴"
+        },
+        {
+          "lesson_number": 5,
+          "title": "مَدرِسه۱۶"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

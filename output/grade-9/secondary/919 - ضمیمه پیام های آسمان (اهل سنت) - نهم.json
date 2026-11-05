@@ -1,0 +1,62 @@
+{
+  "grade": 9,
+  "branch": "secondary",
+  "subject": "ضمیمه پیام های آسمان (اهل سنت) - نهم",
+  "book_code": "919",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس چهارم:"
+        },
+        {
+          "lesson_number": 2,
+          "title": "ستارگان علم و اخالق"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس پنجم:"
+        },
+        {
+          "lesson_number": 4,
+          "title": "حکومت اسالمی و رهبری دینی"
+        },
+        {
+          "lesson_number": 5,
+          "title": "درس ششم:"
+        },
+        {
+          "lesson_number": 6,
+          "title": "وضو، غسل و تیمّم"
+        },
+        {
+          "lesson_number": 7,
+          "title": "درس هفتم:"
+        },
+        {
+          "lesson_number": 8,
+          "title": "احکام نماز"
+        },
+        {
+          "lesson_number": 9,
+          "title": "درس یازدهم:"
+        },
+        {
+          "lesson_number": 10,
+          "title": "انفاق"
+        },
+        {
+          "lesson_number": 11,
+          "title": "نظرسنجی کتاب درسی"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

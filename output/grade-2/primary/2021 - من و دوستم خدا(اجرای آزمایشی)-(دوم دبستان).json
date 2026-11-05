@@ -1,0 +1,54 @@
+{
+  "grade": 2,
+  "branch": "primary",
+  "subject": "من و دوستم خدا(اجرای آزمایشی)-(دوم دبستان)",
+  "book_code": "2021",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "سرزمین‌قصّه ها ۱"
+        },
+        {
+          "lesson_number": 2,
+          "title": "سفر اوّل: راز صندوقچه"
+        },
+        {
+          "lesson_number": 3,
+          "title": "سفر دوم: گردش در کوه ۱۶"
+        },
+        {
+          "lesson_number": 4,
+          "title": "سرزمین‌قصّه ها ۲"
+        },
+        {
+          "lesson_number": 5,
+          "title": "سفر اوّل: راهی میان دریا"
+        },
+        {
+          "lesson_number": 6,
+          "title": "سفر دوم: قهرمان واقعی"
+        },
+        {
+          "lesson_number": 7,
+          "title": "سرزمین‌قصّه ها ۳"
+        },
+        {
+          "lesson_number": 8,
+          "title": "سفر اوّل: آتش سرد"
+        },
+        {
+          "lesson_number": 9,
+          "title": "سفر دوم: من تنها نیستم!"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

@@ -1,0 +1,58 @@
+{
+  "grade": 5,
+  "branch": "primary",
+  "subject": "ضمیمه کتاب هدیه های آسمان (پنجم) - ویژه اهل سنت",
+  "book_code": "519",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس هفتم"
+        },
+        {
+          "lesson_number": 2,
+          "title": "رنگین کمان جمعه ۲"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس نهم"
+        },
+        {
+          "lesson_number": 4,
+          "title": "سفیر شجاع ۱۰"
+        },
+        {
+          "lesson_number": 5,
+          "title": "درس دهم"
+        },
+        {
+          "lesson_number": 6,
+          "title": "پیشوای دانش و بردباری ۱۷"
+        },
+        {
+          "lesson_number": 7,
+          "title": "درس یازدهم"
+        },
+        {
+          "lesson_number": 8,
+          "title": "نیروی ایمان ۲۴"
+        },
+        {
+          "lesson_number": 9,
+          "title": "درس دوازدهم"
+        },
+        {
+          "lesson_number": 10,
+          "title": "درخت پر ثمر ایمان ۳۰"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

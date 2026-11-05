@@ -1,0 +1,46 @@
+{
+  "grade": 2,
+  "branch": "primary",
+  "subject": "ریاضی دوست داشتنی(1) (اجرای آزمایشی)-(دوم دبستان)",
+  "book_code": "2051",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "شصت و نه"
+        },
+        {
+          "lesson_number": 2,
+          "title": "جمع تا ۲۰ و‌تفریق های مرتبط"
+        },
+        {
+          "lesson_number": 3,
+          "title": "رقم و جدول ارزش مکانی"
+        },
+        {
+          "lesson_number": 4,
+          "title": "مقایسه و مرتب‌کردن عددهای دو رقمی"
+        },
+        {
+          "lesson_number": 5,
+          "title": "‌مکان یابی"
+        },
+        {
+          "lesson_number": 6,
+          "title": "حل مسئله"
+        },
+        {
+          "lesson_number": 7,
+          "title": "بیان زمان با دقیقه"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

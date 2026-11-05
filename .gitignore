@@ -1,0 +1,18 @@
+# Heavy / regenerable inputs
+downloads/
+.venv/
+__pycache__/
+output_old/
+
+# Logs (pipeline.log is the canonical run log; keep local, don't ship)
+*.log
+
+# Scratch
+_verify.py
+*.tmp
+
+# Stray pilot/crawl artifacts
+C110201.pdf
+cat_629.html
+toc_page5.png
+toc_page6.png

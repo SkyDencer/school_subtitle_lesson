@@ -1,0 +1,441 @@
+{
+  "grade": 10,
+  "branch": "riazi",
+  "subject": "آزمایشگاه علوم تجربی (1)",
+  "book_code": "110217",
+  "chapters": [
+    {
+      "chapter_number": null,
+      "title": "فصل اوّل: کلّیات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "ــ پرده ای از آب"
+        },
+        {
+          "lesson_number": 2,
+          "title": "کار در آزمایشگاه و ایمنی"
+        },
+        {
+          "lesson_number": 3,
+          "title": "ــ اقیانوسی از هوا"
+        },
+        {
+          "lesson_number": 4,
+          "title": "الف) آشنایی با محیط آزمایشگاه"
+        },
+        {
+          "lesson_number": 5,
+          "title": "ــ نی غواص"
+        },
+        {
+          "lesson_number": 6,
+          "title": "ب) کار گروهی"
+        },
+        {
+          "lesson_number": 7,
+          "title": "ــ شناوری"
+        },
+        {
+          "lesson_number": 8,
+          "title": "پ) توصیه های عمومی"
+        },
+        {
+          "lesson_number": 9,
+          "title": "ــ پرسرعت اما کم فشار"
+        },
+        {
+          "lesson_number": 10,
+          "title": "ت) نشانه های ایمنی"
+        },
+        {
+          "lesson_number": 11,
+          "title": "ــ انرژی به انرژی"
+        },
+        {
+          "lesson_number": 12,
+          "title": "ث) جلوگیری از حوادث"
+        },
+        {
+          "lesson_number": 13,
+          "title": "ــ انتقال انرژی"
+        },
+        {
+          "lesson_number": 14,
+          "title": "ج) موقعیت اضطراری"
+        },
+        {
+          "lesson_number": 15,
+          "title": "ــ جابه جایی گرما"
+        },
+        {
+          "lesson_number": 16,
+          "title": "روش علمی"
+        },
+        {
+          "lesson_number": 17,
+          "title": "ــ از گرما تا حرکت"
+        },
+        {
+          "lesson_number": 18,
+          "title": "ــ قایق بخار"
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "فصل دوم: آزمایش های مربّی ۲۵",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "ــ جهت یابی با استفاده از ساعت عقربه دار"
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "فصل سوم: آزمایش های دستورالعملی ۵۵",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "ــ بخش قابل رؤیت ماه"
+        },
+        {
+          "lesson_number": 2,
+          "title": "ــ تخمین مسافت و مهارت استفاده از نقشه"
+        },
+        {
+          "lesson_number": 3,
+          "title": "ــ هالل های متفاوت از ماه"
+        },
+        {
+          "lesson_number": 4,
+          "title": "ــ زیباسازی محیط زندگی با بلورهای دست ساز"
+        },
+        {
+          "lesson_number": 5,
+          "title": "ــ فوران آب های زیرزمینی"
+        },
+        {
+          "lesson_number": 6,
+          "title": "ــ تعیین مرکز سطحی زمین لرزه"
+        },
+        {
+          "lesson_number": 7,
+          "title": "ــ رطوبت هوای بازدمی"
+        },
+        {
+          "lesson_number": 8,
+          "title": "ــ چگونگی تشکیل چشمه آب"
+        },
+        {
+          "lesson_number": 9,
+          "title": "ــ کربن دی اکسید در هوای بازدمی"
+        },
+        {
+          "lesson_number": 10,
+          "title": "ــ چگونگی تشکیل قندیل های داخل غار"
+        },
+        {
+          "lesson_number": 11,
+          "title": "ــ غذاهای پشتیبان رشد بدن"
+        },
+        {
+          "lesson_number": 12,
+          "title": "ــ قالب داخلی و خارجی"
+        },
+        {
+          "lesson_number": 13,
+          "title": "ــ‌گویچه های‌انتقال دهندۀ گازهای تنفسی"
+        },
+        {
+          "lesson_number": 14,
+          "title": "ــ تشکیل چین خوردگی"
+        },
+        {
+          "lesson_number": 15,
+          "title": "ــ تعیین گروه های خونی"
+        },
+        {
+          "lesson_number": 16,
+          "title": "ــ یاخته های‌ماهیچه ای"
+        },
+        {
+          "lesson_number": 17,
+          "title": "ــ جوشاندن آب، بدون گرما"
+        },
+        {
+          "lesson_number": 18,
+          "title": "ــ نقاشی با بزاق دهان"
+        },
+        {
+          "lesson_number": 19,
+          "title": "ــ حرکت آب با گرمای دست"
+        },
+        {
+          "lesson_number": 20,
+          "title": "ــ نور و اثر آن بر تولید نشاسته در برگ"
+        },
+        {
+          "lesson_number": 21,
+          "title": "ــ بازی دما با انحالل پذیری"
+        },
+        {
+          "lesson_number": 22,
+          "title": "ــ استخوان های محکم و انعطاف پذیر"
+        },
+        {
+          "lesson_number": 23,
+          "title": "ــ مسیرهای رنگی"
+        },
+        {
+          "lesson_number": 24,
+          "title": "ــ روزنه های هوایی در برگ ها"
+        },
+        {
+          "lesson_number": 25,
+          "title": "ــ محلول نمکی حساس"
+        },
+        {
+          "lesson_number": 26,
+          "title": "ــ تقسیم رشتمان (میتوز) در یاخته های ریشه پیاز"
+        },
+        {
+          "lesson_number": 27,
+          "title": "ــ محلول های رنگی"
+        },
+        {
+          "lesson_number": 28,
+          "title": "ــ یاخته های مبارز بدن"
+        },
+        {
+          "lesson_number": 29,
+          "title": "ــ چگونه آب سخت می شود؟"
+        },
+        {
+          "lesson_number": 30,
+          "title": "ــ تخمیر (تنفس بی هوازی)"
+        },
+        {
+          "lesson_number": 31,
+          "title": "ــ بین دما و حجم گاز در فشار ثابت چه رابطه ای وجود دارد؟ ۱۲۸"
+        },
+        {
+          "lesson_number": 32,
+          "title": "ــ نیروی بین ذرات"
+        },
+        {
+          "lesson_number": 33,
+          "title": "ــ آیا همۀ واکنش ها برگشت پذیرند؟"
+        },
+        {
+          "lesson_number": 34,
+          "title": "ــ ید در نمک خوراکی"
+        },
+        {
+          "lesson_number": 35,
+          "title": "ــ هنگام انجام واکنش های شیمیایی چه اتفاقی می افتد؟ ۱۳۲"
+        },
+        {
+          "lesson_number": 36,
+          "title": "ــ ویتامین C در میوه ها و سبزی ها"
+        },
+        {
+          "lesson_number": 37,
+          "title": "ــ چگونه یون ها را در محلول شناسایی کنیم؟"
+        },
+        {
+          "lesson_number": 38,
+          "title": "ــ میزان گاز حل شده در یک نوشابه"
+        },
+        {
+          "lesson_number": 39,
+          "title": "ــ چگونه می توان نمودار انحالل پذیری نمک را رسم کرد؟ ۱۳۵"
+        },
+        {
+          "lesson_number": 40,
+          "title": "ــ کیفیت روغن"
+        },
+        {
+          "lesson_number": 41,
+          "title": "ــ عملکرد کاتالیزگرها چیست؟"
+        },
+        {
+          "lesson_number": 42,
+          "title": "ــ ساخت گوی برفی شیشه ای"
+        },
+        {
+          "lesson_number": 43,
+          "title": "ــ چگونه قطرنخ قرقره یا سیم الکی را با خط کش"
+        },
+        {
+          "lesson_number": 44,
+          "title": "ــ حل شدن گازها در آب"
+        },
+        {
+          "lesson_number": 45,
+          "title": "اندازه گیری کنیم؟"
+        },
+        {
+          "lesson_number": 46,
+          "title": "ــ خالص سازی نیترات ها"
+        },
+        {
+          "lesson_number": 47,
+          "title": "ــ فشار در یک مایع به چه عاملی بستگی دارد؟"
+        },
+        {
+          "lesson_number": 48,
+          "title": "ــ ابعاد مولکول"
+        },
+        {
+          "lesson_number": 49,
+          "title": "ــ چگونه می توان یک چگالی سنج ساده ساخت؟"
+        },
+        {
+          "lesson_number": 50,
+          "title": "ــ کلسیم کربنات در صدف"
+        },
+        {
+          "lesson_number": 51,
+          "title": "ــ چرا روی سطح خیابان ها جاده های یخ زده ،و"
+        },
+        {
+          "lesson_number": 52,
+          "title": "ــ اندازه گیری ابعاد یک لوله"
+        },
+        {
+          "lesson_number": 53,
+          "title": "نمک می پاشند؟"
+        },
+        {
+          "lesson_number": 54,
+          "title": "ــ اندازه گیری هایی به ضخامت یک برگه کاغذ"
+        },
+        {
+          "lesson_number": 55,
+          "title": "ــ چگونه در روزهای خیلی سرد زمستان، که سطح آب"
+        },
+        {
+          "lesson_number": 56,
+          "title": "ــ چگالی"
+        },
+        {
+          "lesson_number": 57,
+          "title": "دریاچه ها یخ می زند، ماهی ها زنده می مانند؟"
+        },
+        {
+          "lesson_number": 58,
+          "title": "ــ اصل ارشمیدس"
+        },
+        {
+          "lesson_number": 59,
+          "title": "ــ چگونه یک دماپای (ترموستات) ساده بسازیم؟"
+        },
+        {
+          "lesson_number": 60,
+          "title": "ــ اندازه گیری دما"
+        },
+        {
+          "lesson_number": 61,
+          "title": "ــ کدام یک گرمای بیشتری مبادله می کند؟"
+        },
+        {
+          "lesson_number": 62,
+          "title": "ــ ظرفیت گرمایی گرماسنج"
+        },
+        {
+          "lesson_number": 63,
+          "title": "پروژه"
+        },
+        {
+          "lesson_number": 64,
+          "title": "ــ گاز آرمانی (کامل) در دمای ثابت"
+        },
+        {
+          "lesson_number": 65,
+          "title": "منابع"
+        },
+        {
+          "lesson_number": 66,
+          "title": "ــ انبساط طولی جامدها"
+        },
+        {
+          "lesson_number": 67,
+          "title": "ــ گرمای ویژه"
+        },
+        {
+          "lesson_number": 68,
+          "title": "ــ گرمای نهان ذوب یخ"
+        },
+        {
+          "lesson_number": 69,
+          "title": "ــ گرمای نهان تبخیر آب"
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "فصل چهارم: آزمایش های کاوشگری ۱۱۷",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "ــ چگونه رطوبت نسبی هوای محل زندگی خود را اندازه بگیریم؟ ۱۱۸"
+        },
+        {
+          "lesson_number": 2,
+          "title": "ــ کوهنوردان، چگونه با استفاده از نقشه های عارضه نگاری"
+        },
+        {
+          "lesson_number": 3,
+          "title": "مسیریابی می کنند؟"
+        },
+        {
+          "lesson_number": 4,
+          "title": "ــ کیفیت آب موجود در کدام زمین ها، برای آشامیدن مناسب تر"
+        },
+        {
+          "lesson_number": 5,
+          "title": "است؟"
+        },
+        {
+          "lesson_number": 6,
+          "title": "ــ گیاهان چگونه وزن کم می کنند؟"
+        },
+        {
+          "lesson_number": 7,
+          "title": "ــ آیا کاتالیزگرهای زیستی می توانند نقش سم زدایی داشته"
+        },
+        {
+          "lesson_number": 8,
+          "title": "باشند؟"
+        },
+        {
+          "lesson_number": 9,
+          "title": "ــ آیا گیاهان با هم رقابت می کنند؟"
+        }
+      ]
+    }
+  ],
+  "front_matter": [
+    {
+      "title": "پیشگفتار"
+    },
+    {
+      "title": "ــ رسوب شناور"
+    },
+    {
+      "title": "ــ زعفران اصل یا رنگ زرد تقلبی"
+    },
+    {
+      "title": "ــ مولکول ها، دست در دست هم"
+    }
+  ],
+  "back_matter": [],
+  "toc_pages": 2,
+  "extraction_method": "text",
+  "shared_across": [
+    "riazi",
+    "tajrobi"
+  ]
+}

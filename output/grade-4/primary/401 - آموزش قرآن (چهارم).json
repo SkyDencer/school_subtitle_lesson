@@ -1,0 +1,158 @@
+{
+  "grade": 4,
+  "branch": "primary",
+  "subject": "آموزش قرآن (چهارم)",
+  "book_code": "401",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "سخنی با والدین و آموزگاران"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس اول"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس دوم"
+        },
+        {
+          "lesson_number": 4,
+          "title": "یادآوری قواعد سال گذشته ،های"
+        },
+        {
+          "lesson_number": 5,
+          "title": "سوره ی تَغابُن آیات ۱ تا ۴ و"
+        },
+        {
+          "lesson_number": 6,
+          "title": "آشنایی با خط قرآن کریم،"
+        },
+        {
+          "lesson_number": 7,
+          "title": "سوره ی نَبَأ آیات ۱۷ تا ۳۰ ،"
+        },
+        {
+          "lesson_number": 8,
+          "title": "سوره ی اِبراهیم آیات ۸۳ تا"
+        },
+        {
+          "lesson_number": 9,
+          "title": "وقف بر حرکات « ــًــٍــٌـ »"
+        },
+        {
+          "lesson_number": 10,
+          "title": "۱۴، وقف « ــَـــِـــُـ ، سوره » ی"
+        },
+        {
+          "lesson_number": 11,
+          "title": "نَبَأ آیات ۱ تا ۶۱"
+        },
+        {
+          "lesson_number": 12,
+          "title": "درس سوم"
+        },
+        {
+          "lesson_number": 13,
+          "title": "درس چهارم"
+        },
+        {
+          "lesson_number": 14,
+          "title": "سوره ی آل ِعِمران آیات ۲۶ و"
+        },
+        {
+          "lesson_number": 15,
+          "title": "سوره ی فُصِّلَت آیات ۳۰ تا ۳۴"
+        },
+        {
+          "lesson_number": 16,
+          "title": "و سوره ی عَبَس آیات ۱ تا"
+        },
+        {
+          "lesson_number": 17,
+          "title": "و سوره ی عَبَس آیات ۱۷ تا ۳۲ ،"
+        },
+        {
+          "lesson_number": 18,
+          "title": "، وقف بر « ـه و، ـه ی »"
+        },
+        {
+          "lesson_number": 19,
+          "title": "وقف بر « ة »"
+        },
+        {
+          "lesson_number": 20,
+          "title": "درس پنجم"
+        },
+        {
+          "lesson_number": 21,
+          "title": "درس ششم"
+        },
+        {
+          "lesson_number": 22,
+          "title": "سوره ی آل ِعِمران آیات ۲۰۱"
+        },
+        {
+          "lesson_number": 23,
+          "title": "سوره ی اِسراء آیات ۷۸ تا ۸۲"
+        },
+        {
+          "lesson_number": 24,
+          "title": "تا ۱۰۴ و سوره ی تَکویر آیات"
+        },
+        {
+          "lesson_number": 25,
+          "title": "ّو سوره ی تَکویر آیات ۱۵ تا"
+        },
+        {
+          "lesson_number": 26,
+          "title": "تا ۱۴ ، حروف مُقَطَّعه"
+        },
+        {
+          "lesson_number": 27,
+          "title": "، عالمت مَد"
+        },
+        {
+          "lesson_number": 28,
+          "title": "درس هفتم"
+        },
+        {
+          "lesson_number": 29,
+          "title": "درس هشتم"
+        },
+        {
+          "lesson_number": 30,
+          "title": "سوره ی نَحل آیات ۹۶ تا ۱۰۰"
+        },
+        {
+          "lesson_number": 31,
+          "title": "سوره ی آل ِعِمران آیات ۳۵ تا"
+        },
+        {
+          "lesson_number": 32,
+          "title": "و سوره ی محمّد (ص) آیات"
+        },
+        {
+          "lesson_number": 33,
+          "title": "و سوره ی فاطِر آیات ۳ تا"
+        },
+        {
+          "lesson_number": 34,
+          "title": "تا ۳۷"
+        },
+        {
+          "lesson_number": 35,
+          "title": "، داستان حضرت زکریّا و مریم"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

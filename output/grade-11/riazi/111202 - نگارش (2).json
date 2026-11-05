@@ -1,0 +1,79 @@
+{
+  "grade": 11,
+  "branch": "riazi",
+  "subject": "نگارش (2)",
+  "book_code": "111202",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس اوّل: اجزای نوشته: ساختار و محتوا"
+        },
+        {
+          "lesson_number": 2,
+          "title": "کارگاهِ نوشتن"
+        },
+        {
+          "lesson_number": 3,
+          "title": "مَثَل نویسی"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس دوم: گسترش محتوا ۱(): زمان و مكان"
+        },
+        {
+          "lesson_number": 5,
+          "title": "شعرگردانی"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس سوم: گسترش محتوا ۲(): شخصیت"
+        },
+        {
+          "lesson_number": 7,
+          "title": "حکایت نگاری"
+        },
+        {
+          "lesson_number": 8,
+          "title": "درس چهارم: گسترش محتوا ۳(گفت): وگو"
+        },
+        {
+          "lesson_number": 9,
+          "title": "درس پنجم: سفرنامه"
+        },
+        {
+          "lesson_number": 10,
+          "title": "درس ششم: كاهش محتوا:‌خالصه نویسی ۱۰۶"
+        },
+        {
+          "lesson_number": 11,
+          "title": "کتابنامه"
+        }
+      ]
+    }
+  ],
+  "front_matter": [
+    {
+      "title": "پیشگفتار"
+    },
+    {
+      "title": "ستایش"
+    }
+  ],
+  "back_matter": [
+    {
+      "title": "نیایش"
+    }
+  ],
+  "toc_pages": 1,
+  "extraction_method": "text",
+  "shared_across": [
+    "riazi",
+    "tajrobi",
+    "ensani",
+    "maarefi"
+  ]
+}

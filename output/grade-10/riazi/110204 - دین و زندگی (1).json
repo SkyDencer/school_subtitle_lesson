@@ -1,0 +1,54 @@
+{
+  "grade": 10,
+  "branch": "riazi",
+  "subject": "دین و زندگی (1)",
+  "book_code": "110204",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "بخش اوّل: تفکر و اندیشه"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس دوم: قدرت پرواز"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس اوّل: هدف زندگی"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس سوم: به سوی جاودانگی"
+        },
+        {
+          "lesson_number": 5,
+          "title": "درس چهارم: آیندۀ روشن"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس پنجم: منزلگاه بعد"
+        },
+        {
+          "lesson_number": 7,
+          "title": "درس ششم: واقعۀ بزرگ"
+        },
+        {
+          "lesson_number": 8,
+          "title": "درس هفتم: فرجام کار"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text",
+  "shared_across": [
+    "riazi",
+    "tajrobi"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "grade": 6,
+  "branch": "primary",
+  "subject": "کتاب کار آموزش خط تحریری ششم دبستان",
+  "book_code": "608",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "كِ"
+        },
+        {
+          "lesson_number": 2,
+          "title": "مت"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس اوّل: مروری بر آموخته‌های قبل"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس دوم: سایر اتصالات حروف"
+        },
+        {
+          "lesson_number": 5,
+          "title": "درس سوم: سایر اتصالات حروف ک. گ -۵-م"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس چهارم: سایر اتصالات حروف س. ش -ص» ض -ع۰ غ ور"
+        },
+        {
+          "lesson_number": 7,
+          "title": "درس پنجم: زیبانویسی متن"
+        },
+        {
+          "lesson_number": 8,
+          "title": "درس شسشم:زیبانویسی متن"
+        },
+        {
+          "lesson_number": 9,
+          "title": "درس هفتم: زیبانویسی متن (راست چین)"
+        },
+        {
+          "lesson_number": 10,
+          "title": "درس هشتم: زیبانویسی متن (وسط چین)"
+        },
+        {
+          "lesson_number": 11,
+          "title": "درس نهم: چبهره‌ی ماندگار"
+        },
+        {
+          "lesson_number": 12,
+          "title": "درس دهم: زیبانویسی متن (راست‌چین)"
+        },
+        {
+          "lesson_number": 13,
+          "title": "درس یازدهم: زیبانویسی متن (لوزی)"
+        },
+        {
+          "lesson_number": 14,
+          "title": "درس دوازدهم: زیبانویسی متن (ستونی)"
+        },
+        {
+          "lesson_number": 15,
+          "title": "درس سیزدهم: زیبانویسی متن (وسط‌چین)"
+        },
+        {
+          "lesson_number": 16,
+          "title": "درس چهاردهم: زیبانویسی متن (راست‌چین)"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "ocr"
+}

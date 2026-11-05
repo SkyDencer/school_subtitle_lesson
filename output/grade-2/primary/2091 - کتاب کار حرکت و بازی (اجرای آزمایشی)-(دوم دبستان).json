@@ -1,0 +1,114 @@
+{
+  "grade": 2,
+  "branch": "primary",
+  "subject": "کتاب کار حرکت و بازی (اجرای آزمایشی)-(دوم دبستان)",
+  "book_code": "2091",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "س"
+        },
+        {
+          "lesson_number": 2,
+          "title": ":"
+        },
+        {
+          "lesson_number": 3,
+          "title": "ح"
+        },
+        {
+          "lesson_number": 4,
+          "title": "ر"
+        },
+        {
+          "lesson_number": 5,
+          "title": "د"
+        },
+        {
+          "lesson_number": 6,
+          "title": "ک"
+        },
+        {
+          "lesson_number": 7,
+          "title": "ا"
+        },
+        {
+          "lesson_number": 8,
+          "title": "ت"
+        },
+        {
+          "lesson_number": 9,
+          "title": "ی"
+        },
+        {
+          "lesson_number": 10,
+          "title": "ط"
+        },
+        {
+          "lesson_number": 11,
+          "title": "م"
+        },
+        {
+          "lesson_number": 12,
+          "title": "ب"
+        },
+        {
+          "lesson_number": 13,
+          "title": "ن"
+        },
+        {
+          "lesson_number": 14,
+          "title": "پت‌پت"
+        },
+        {
+          "lesson_number": 15,
+          "title": "گ"
+        },
+        {
+          "lesson_number": 16,
+          "title": "ه"
+        },
+        {
+          "lesson_number": 17,
+          "title": "و"
+        },
+        {
+          "lesson_number": 18,
+          "title": "یِ"
+        },
+        {
+          "lesson_number": 19,
+          "title": "ل"
+        },
+        {
+          "lesson_number": 20,
+          "title": "چ"
+        },
+        {
+          "lesson_number": 21,
+          "title": "کُ"
+        },
+        {
+          "lesson_number": 22,
+          "title": "‌ه"
+        },
+        {
+          "lesson_number": 23,
+          "title": "ع"
+        },
+        {
+          "lesson_number": 24,
+          "title": "ض"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

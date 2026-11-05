@@ -1,0 +1,110 @@
+{
+  "grade": 2,
+  "branch": "primary",
+  "subject": "فارسی می خوانم(اجرای آزمایشی)-(دوم دبستان)",
+  "book_code": "2031",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس"
+        },
+        {
+          "lesson_number": 2,
+          "title": "‌هدیه ی خدا ۹۷"
+        },
+        {
+          "lesson_number": 3,
+          "title": "آشِ سنگ ۶۰"
+        },
+        {
+          "lesson_number": 4,
+          "title": "خطّ باران ۷۰"
+        },
+        {
+          "lesson_number": 5,
+          "title": "‌خوش خیال ۵۶"
+        },
+        {
+          "lesson_number": 6,
+          "title": "دایناسورها ۸۸"
+        },
+        {
+          "lesson_number": 7,
+          "title": "بهترین"
+        },
+        {
+          "lesson_number": 8,
+          "title": "بابای دنیا"
+        },
+        {
+          "lesson_number": 9,
+          "title": "‌محاکمه ی"
+        },
+        {
+          "lesson_number": 10,
+          "title": "االغ ۷۴"
+        },
+        {
+          "lesson_number": 11,
+          "title": "خورشید"
+        },
+        {
+          "lesson_number": 12,
+          "title": "پس کو؟ ۸۴"
+        },
+        {
+          "lesson_number": 13,
+          "title": "پاییز ۴۲"
+        },
+        {
+          "lesson_number": 14,
+          "title": "خدا"
+        },
+        {
+          "lesson_number": 15,
+          "title": "شروع"
+        },
+        {
+          "lesson_number": 16,
+          "title": "پاییز ۳۴"
+        },
+        {
+          "lesson_number": 17,
+          "title": "‌نقشه ی"
+        },
+        {
+          "lesson_number": 18,
+          "title": "گنج ۱۲"
+        },
+        {
+          "lesson_number": 19,
+          "title": "دنیا بدون"
+        },
+        {
+          "lesson_number": 20,
+          "title": "درخت ۲۰"
+        },
+        {
+          "lesson_number": 21,
+          "title": "به کالس دوم"
+        },
+        {
+          "lesson_number": 22,
+          "title": "خوش آمدید ۱۶"
+        },
+        {
+          "lesson_number": 23,
+          "title": "یار مهربان ۳۱"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

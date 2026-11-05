@@ -1,0 +1,115 @@
+{
+  "grade": 12,
+  "branch": "maarefi",
+  "subject": "علوم و فنون ادبی (3)",
+  "book_code": "112203",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "فصل یکم",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس یکم: تاریخ ادبیات قرن های دوازدهم و سیزدهم (دورۀ بازگشت و بیداری)"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس دوم: پایه های آوایی ناهمسان"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس سوم: مراعات نظیر، تلمیح و تضمین"
+        },
+        {
+          "lesson_number": 4,
+          "title": "کارگاه تحلیل فصل"
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "فصل دوم",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس چهارم: سبک شناسی قرن های دوازدهم و سیزدهم (دورهٔ بازگشت و بیداری)"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس پنجم: اختیارات شاعری)۱(: زبانی"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس ششم: لف و نشر، تضاد و متناقض نما"
+        },
+        {
+          "lesson_number": 4,
+          "title": "کارگاه تحلیل فصل"
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "فصل سوم",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس هفتم: تاریخ ادبیات قرن چهاردهم (دورة معاصر و انقالب اسالمی)"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس هشتم: اختیارات شاعری ۲(): وزنی"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس نهم: اغراق، ایهام و ایهام تناسب"
+        },
+        {
+          "lesson_number": 4,
+          "title": "کارگاه تحلیل فصل"
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "فصل چهارم",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس دهم: سبک شناسی دورة معاصر و انقالب اسالمی"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس یازدهم: وزن در شعر نیمایی"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس دوازدهم: حسن تعلیل، حس آمیزی و اسلوب معادله"
+        },
+        {
+          "lesson_number": 4,
+          "title": "کارگاه تحلیل فصل"
+        },
+        {
+          "lesson_number": 5,
+          "title": "منابع"
+        }
+      ]
+    }
+  ],
+  "front_matter": [
+    {
+      "title": "پیشگفتار"
+    },
+    {
+      "title": "ستایش: دریای لطف"
+    }
+  ],
+  "back_matter": [
+    {
+      "title": "نیایش"
+    }
+  ],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

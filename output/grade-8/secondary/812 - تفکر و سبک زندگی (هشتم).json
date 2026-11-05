@@ -1,0 +1,94 @@
+{
+  "grade": 8,
+  "branch": "secondary",
+  "subject": "تفکر و سبک زندگی (هشتم)",
+  "book_code": "812",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "بخش اوّل: ‏ فعّالیت های الزامی نوبت اوّل تفکّر و پژوهش"
+        },
+        {
+          "lesson_number": 2,
+          "title": "زیبایی"
+        },
+        {
+          "lesson_number": 3,
+          "title": "نقّاشی شاهزاده خانم"
+        },
+        {
+          "lesson_number": 4,
+          "title": "راه رهایی"
+        },
+        {
+          "lesson_number": 5,
+          "title": "پروژه"
+        },
+        {
+          "lesson_number": 6,
+          "title": "طرح سؤال پژوهشی"
+        },
+        {
+          "lesson_number": 7,
+          "title": "تهیّهٔ طرح پژوهش"
+        },
+        {
+          "lesson_number": 8,
+          "title": "برنامه ‏ ریزی برای اجرا"
+        },
+        {
+          "lesson_number": 9,
+          "title": "بخش دوم: ‏ فعّالیت های الزامی نوبت اوّل آداب و ‏ مهارت های زندگی"
+        },
+        {
+          "lesson_number": 10,
+          "title": "آداب معاشرت و ‏ گفت وگو"
+        },
+        {
+          "lesson_number": 11,
+          "title": "مهارت های تصمیم گیری"
+        },
+        {
+          "lesson_number": 12,
+          "title": "خویشتن داری"
+        },
+        {
+          "lesson_number": 13,
+          "title": "رفتار پر خطر"
+        },
+        {
+          "lesson_number": 14,
+          "title": "بخش سوم: ‏ فعّالیت های الزامی نوبت دوم تفکّر و پژوهش"
+        },
+        {
+          "lesson_number": 15,
+          "title": "عادت ‏ ها"
+        },
+        {
+          "lesson_number": 16,
+          "title": "دیو و کیک"
+        },
+        {
+          "lesson_number": 17,
+          "title": "خط کشی"
+        },
+        {
+          "lesson_number": 18,
+          "title": "تو نیکی می کن و در دجله انداز"
+        },
+        {
+          "lesson_number": 19,
+          "title": "ارائهٔ گزارش پژوهش"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

@@ -1,0 +1,38 @@
+{
+  "grade": 7,
+  "branch": "secondary",
+  "subject": "ضمیمه پیام های آسمان (اهل سنت) - هفتم",
+  "book_code": "719",
+  "chapters": [
+    {
+      "chapter_number": 4,
+      "title": "فصل چهارم: راه و توشه",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس هشتم افتخار بندگی"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس نهم به سوی پاکی"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس دهم ستون دین"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس یازدهم نماز جماعت"
+        },
+        {
+          "lesson_number": 5,
+          "title": "نظرسنجی کتاب درسی"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

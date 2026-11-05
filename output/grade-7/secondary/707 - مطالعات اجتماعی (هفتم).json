@@ -1,0 +1,180 @@
+{
+  "grade": 7,
+  "branch": "secondary",
+  "subject": "مطالعات اجتماعی (هفتم)",
+  "book_code": "707",
+  "chapters": [
+    {
+      "chapter_number": null,
+      "title": "فصل اوّل: حقوق و مسئولیت های ما",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس ۱: من حق دارم"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس ۲: من مسئول هستم"
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "فصل دوم: قانون",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس ۳: چرا به مقررات و قوانین نیاز داریم؟"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس ۴: قانون گذاری"
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "فصل سوم: مقابله با حوادث ۲۱",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس ۵: همدلی و همیاری در حوادث"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس ۶: بیمه و مقابله با حوادث"
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "فصل چهارم: تولید، توزیع، مصرف",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس ۷: تولید و توزیع"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس ۸: مصرف"
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "فصل پنجم: محیط زندگی خود را بشناسیم",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس ۹: من کجا زندگی می کنم؟"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس ۰۱: ایران، خانهٔ ما"
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "فصل ششم: از زیستگاه های ایران حفاظت کنیم",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس ۱۱: تنوّع آب و هوای ایران"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس ۲۱: حفاظت از زیستگاه های ایران"
+        }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "title": "فصل هفتم: جمعیت و منابع",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس ۳۱: جمعیت ایران"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس ۴۱: منابع آب و خاک"
+        }
+      ]
+    },
+    {
+      "chapter_number": 8,
+      "title": "فصل هشتم: گردشگری در ایران",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس ۵۱: گردشگری چیست؟"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس ۶۱: جاذبه های گردشگری ایران"
+        }
+      ]
+    },
+    {
+      "chapter_number": 9,
+      "title": "فصل نهم: سرزمین ما، کاوش در گذشته های دور",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس ۷۱: میراث فرهنگی و تاریخ"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس ۸۱: قدیمی ترین سکونتگاه های ایران"
+        }
+      ]
+    },
+    {
+      "chapter_number": 10,
+      "title": "فصل دهم: شکل گیری امپراتوری های بزرگ در ایران باستان",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس ۹۱: آریایی ها و تشکیل حکومت های قدرتمند در ایران"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس ۲۰ امپراتوری: های ایران باستان چگونه کشور را اداره می کردند؟"
+        }
+      ]
+    },
+    {
+      "chapter_number": 11,
+      "title": "فصل یازدهم: اوضاع اجتماعی ـ اقتصادی ایران باستان",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس ۱۲: اوضاع اجتماعی ایران باستان"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس ۲۲: اوضاع اقتصادی در ایران باستان"
+        }
+      ]
+    },
+    {
+      "chapter_number": 12,
+      "title": "فصل دوازدهم: فرهنگ و تمدن ایران باستان",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس ۳۲: عقاید و سبک زندگی مردم در ایران باستان"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس ۴۲: دانش و هنر در ایران باستان"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

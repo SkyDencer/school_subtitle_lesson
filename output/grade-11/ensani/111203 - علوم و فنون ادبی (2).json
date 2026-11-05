@@ -1,0 +1,119 @@
+{
+  "grade": 11,
+  "branch": "ensani",
+  "subject": "علوم و فنون ادبی (2)",
+  "book_code": "111203",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "فصل یکم:",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس یکم: تاریخ ادبیات فارسی در‌قرن های هفتم، هشتم و نهم"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس دوم: پایه های آوایی"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس سوم: تشبیه"
+        },
+        {
+          "lesson_number": 4,
+          "title": "کارگاه تحلیل فصل"
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "فصل دوم:",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس چهارم: سبک‌شناسی‌قرن های هفتم، هشتم و نهم (سبک عراقی)"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس پنجم: پایه های آوایی همسان)۱("
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس ششم: مجاز"
+        },
+        {
+          "lesson_number": 4,
+          "title": "کارگاه تحلیل فصل"
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "فصل سوم:",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس هفتم: تاریخ ادبیات فارسی در‌قرن های دهم و یازدهم"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس هشتم: پایه های آوایی همسان)۲("
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس نهم: استعاره"
+        },
+        {
+          "lesson_number": 4,
+          "title": "کارگاه تحلیل فصل"
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "فصل چهارم:",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس دهم:‌سبک شناسی‌قرن های دهم و یازدهم (سبک هندی)"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس یازدهم: پایه های آوایی همسان دو لختی"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس دوازدهم: کنایه"
+        },
+        {
+          "lesson_number": 4,
+          "title": "کارگاه تحلیل فصل"
+        },
+        {
+          "lesson_number": 5,
+          "title": "منابع"
+        }
+      ]
+    }
+  ],
+  "front_matter": [
+    {
+      "title": "پیشگفتار: سخنی با دبیران ارجمند"
+    },
+    {
+      "title": "ستایش: الهی"
+    }
+  ],
+  "back_matter": [
+    {
+      "title": "نیایش"
+    }
+  ],
+  "toc_pages": 1,
+  "extraction_method": "text",
+  "shared_across": [
+    "ensani",
+    "maarefi"
+  ]
+}

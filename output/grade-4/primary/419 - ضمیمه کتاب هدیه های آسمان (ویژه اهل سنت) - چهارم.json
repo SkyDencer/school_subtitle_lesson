@@ -1,0 +1,46 @@
+{
+  "grade": 4,
+  "branch": "primary",
+  "subject": "ضمیمه کتاب هدیه های آسمان (ویژه اهل سنت) - چهارم",
+  "book_code": "419",
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "محتویات",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "درس سوم: ما به مسجد می رویم ۱"
+        },
+        {
+          "lesson_number": 2,
+          "title": "درس چهارم: خدای خورشید و ماه ۸"
+        },
+        {
+          "lesson_number": 3,
+          "title": "درس ششم: شیفته ی دانش و ایمان ۲۱"
+        },
+        {
+          "lesson_number": 4,
+          "title": "درس هفتم: نماز بر روی تخت ۸۱"
+        },
+        {
+          "lesson_number": 5,
+          "title": "درس هشتم: به یاد مهربان ترین معلّم ۴۲"
+        },
+        {
+          "lesson_number": 6,
+          "title": "درس نهم: استاد بزرگ خداپرستی ۸۲"
+        },
+        {
+          "lesson_number": 7,
+          "title": "درس دوازدهم: عموهای مهربان ۱۳"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}

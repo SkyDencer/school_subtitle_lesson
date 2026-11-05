@@ -1,0 +1,134 @@
+{
+  "grade": 11,
+  "branch": "riazi",
+  "subject": "زمین شناسی",
+  "book_code": "111237",
+  "chapters": [
+    {
+      "chapter_number": null,
+      "title": "فصل اوّل: آفرینش کیهان و تکوین زمین",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "آفرینش کیهان"
+        },
+        {
+          "lesson_number": 2,
+          "title": "فرایند آفرینش جهان"
+        },
+        {
+          "lesson_number": 3,
+          "title": "تشکیل عناصر"
+        },
+        {
+          "lesson_number": 4,
+          "title": "کهکشان راه شیری"
+        },
+        {
+          "lesson_number": 5,
+          "title": "سامانۀ خورشیدی"
+        },
+        {
+          "lesson_number": 6,
+          "title": "تکوین زمین و آغاز زندگی در آن ۱۴"
+        },
+        {
+          "lesson_number": 7,
+          "title": "سن زمین"
+        },
+        {
+          "lesson_number": 8,
+          "title": "زمان در زمین شناسی ۱۹"
+        },
+        {
+          "lesson_number": 9,
+          "title": "تغییرات آب و هوایی ۲۰"
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "فصل دوم: منابع معدنی و ذخایر انرژی، زیربنای تمدن و توسعه ۲۳",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "منابع معدنی در زندگی ما ۲۴"
+        },
+        {
+          "lesson_number": 2,
+          "title": "غلظت عناصر در پوسته زمین ۲۴"
+        },
+        {
+          "lesson_number": 3,
+          "title": "کانی های سیلیکاتی ۲۵"
+        },
+        {
+          "lesson_number": 4,
+          "title": "سری واکنشی بوون ۲۷"
+        },
+        {
+          "lesson_number": 5,
+          "title": "کانه ۲۸"
+        },
+        {
+          "lesson_number": 6,
+          "title": "کان سنگ ۲۸"
+        },
+        {
+          "lesson_number": 7,
+          "title": "طبقه بندی کان سنگ ها ۲۹"
+        },
+        {
+          "lesson_number": 8,
+          "title": "اکتشاف معدن ۳۱"
+        },
+        {
+          "lesson_number": 9,
+          "title": "استخراج معدن و فراوری ماده معدنی ۳۱"
+        },
+        {
+          "lesson_number": 10,
+          "title": "،گوهرها زیبایی شگفت انگیز دنیای کانی ها ۳۲"
+        },
+        {
+          "lesson_number": 11,
+          "title": "سوخت های فسیلی ۳۵"
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "فصل سوم: منابع آب و خاک ۴۱",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "آب جاری ۴۲"
+        },
+        {
+          "lesson_number": 2,
+          "title": "آب زیرزمینی ۴۴"
+        },
+        {
+          "lesson_number": 3,
+          "title": "فرونشست زمین ۵۲"
+        },
+        {
+          "lesson_number": 4,
+          "title": "منابع خاک ۵۲"
+        },
+        {
+          "lesson_number": 5,
+          "title": "فرسایش ۵۴"
+        }
+      ]
+    }
+  ],
+  "front_matter": [],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text",
+  "shared_across": [
+    "riazi",
+    "tajrobi"
+  ]
+}

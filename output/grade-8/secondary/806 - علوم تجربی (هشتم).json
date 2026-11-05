@@ -1,0 +1,161 @@
+{
+  "grade": 8,
+  "branch": "secondary",
+  "subject": "علوم تجربی (هشتم)",
+  "book_code": "806",
+  "chapters": [
+    {
+      "chapter_number": null,
+      "title": "فصل اوّل",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "تغییرهای شیمیایی در خدمت زندگی"
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "فصل دوم",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "از درون اتم چه خبر"
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "فصل سوم",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "تنظیم عصبی"
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "فصل چهارم",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "حس و حرکت"
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "فصل پنجم",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "تنظیم هورمونی"
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "فصل ششم",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "الفبای زیست فناوری"
+        }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "title": "فصل هفتم",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "تولید مثل در جانداران"
+        }
+      ]
+    },
+    {
+      "chapter_number": 8,
+      "title": "فصل هشتم",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "الکتریسیته"
+        }
+      ]
+    },
+    {
+      "chapter_number": 9,
+      "title": "فصل نهم",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "مغناطیس"
+        }
+      ]
+    },
+    {
+      "chapter_number": 10,
+      "title": "فصل دهم",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "کانی ها"
+        }
+      ]
+    },
+    {
+      "chapter_number": 11,
+      "title": "فصل یازدهم",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "سنگ ها"
+        }
+      ]
+    },
+    {
+      "chapter_number": 12,
+      "title": "فصل دوازدهم",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "هوازدگی"
+        }
+      ]
+    },
+    {
+      "chapter_number": null,
+      "title": "فصل سیزدهم",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "نور و ویژگی های آن"
+        }
+      ]
+    },
+    {
+      "chapter_number": null,
+      "title": "فصل چهاردهم",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "title": "شکست نور"
+        }
+      ]
+    },
+    {
+      "chapter_number": null,
+      "title": "فصل پانزدهم",
+      "lessons": []
+    }
+  ],
+  "front_matter": [
+    {
+      "title": "مخلوط و جدا سازی مواد"
+    }
+  ],
+  "back_matter": [],
+  "toc_pages": 1,
+  "extraction_method": "text"
+}
