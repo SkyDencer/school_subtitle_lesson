@@ -233,6 +233,29 @@ def _keep_fragment(title):
     bare chapter ordinals and bare 'درس N' labels are structural fragments."""
     return _ordinal_of(title) is not None or _label_num(title) is not None
 
+def _persian_num(n):
+    return str(n).translate(str.maketrans(_ASCII_D, PERS_D))
+
+def _arabic_lesson_label(title):
+    """True for (possibly scrambled) Arabic «الدرس …» lesson headings. Decorative
+    Arabic text layers split the word into fragments (اَلد … لرس), so test the
+    space-free diacritic-stripped form: the Arabic definite article «ال» prefix
+    plus the letters of درس (or a clean «الدرس…» start). Persian lesson titles
+    start with «د» and are never touched."""
+    s = _nd(title).replace(" ", "")
+    return s.startswith("ال") and ("رس" in s or s.startswith("الدرس"))
+
+def _normalize_lesson_labels(chapters):
+    """Render Arabic «الدرس …» lesson headings as the standard Persian label
+    «درس N» (N = lesson_number); the raw extraction is kept in title_original."""
+    for ch in chapters:
+        for les in ch.get("lessons", []):
+            t = les["title"]
+            if _arabic_lesson_label(t):
+                les["title"] = "درس " + _persian_num(les.get("lesson_number", 0))
+                les["title_original"] = t
+    return chapters
+
 # Heading-level preface markers. A فهرst page may LIST "پیشگفتار" as an entry
 # (with dot leaders + page number) — only a standalone heading (no dots, no page
 # number) means the preface body has started and the فهرst is over.
@@ -345,6 +368,7 @@ def classify(lines):
             [{"lesson_number":k+1,"title":clean_title(t)} for k,t in enumerate(pre)]})
     else:
         front.extend({"title":clean_title(t)} for t in pre)   # pre-chapter entries -> front matter
+    _normalize_lesson_labels(chapters)   # «الدرس …» -> «درس N» (Arabic lesson headings)
     return chapters, front, back
 
 def extract_toc_from_pdf(pdf_path, grade, branch, subject, book_code, out_path):

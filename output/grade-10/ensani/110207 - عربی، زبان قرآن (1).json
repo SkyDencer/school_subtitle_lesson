@@ -10,35 +10,43 @@
       "lessons": [
         {
           "lesson_number": 1,
-          "title": "الد اأألو لرس"
+          "title": "درس ۱",
+          "title_original": "الد اأألو لرس"
         },
         {
           "lesson_number": 2,
-          "title": "الد رس الثاین"
+          "title": "درس ۲",
+          "title_original": "الد رس الثاین"
         },
         {
           "lesson_number": 3,
-          "title": "الد رس الثالث"
+          "title": "درس ۳",
+          "title_original": "الد رس الثالث"
         },
         {
           "lesson_number": 4,
-          "title": "الد رس الرابع"
+          "title": "درس ۴",
+          "title_original": "الد رس الرابع"
         },
         {
           "lesson_number": 5,
-          "title": "الد رس الخامس"
+          "title": "درس ۵",
+          "title_original": "الد رس الخامس"
         },
         {
           "lesson_number": 6,
-          "title": "الد رس السادس"
+          "title": "درس ۶",
+          "title_original": "الد رس السادس"
         },
         {
           "lesson_number": 7,
-          "title": "الد رس السابع"
+          "title": "درس ۷",
+          "title_original": "الد رس السابع"
         },
         {
           "lesson_number": 8,
-          "title": "الد رس الثامن"
+          "title": "درس ۸",
+          "title_original": "الد رس الثامن"
         }
       ]
     }
