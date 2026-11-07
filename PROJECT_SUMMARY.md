@@ -1,16 +1,16 @@
 # Project Summary — Iranian Textbook TOC Extraction
 
-Generated: 2026-11-07T12:50:50  
+Generated: 2026-11-07T17:37:49  
 Source: chap.sch.ir (academic year 1405-1406)  
 Scope: academic track, grades 1-12 (primary, secondary, 4 high-school branches)
 
 ## Totals
-**208 out of 217 books extracted. 147 via text layer, 61 via OCR. 9 exceptions.**
+**208 out of 217 books extracted. 148 via text layer, 60 via OCR. 9 exceptions.**
 
 - Books discovered / attempted: **217**
 - TOCs successfully extracted: **208**
-  - via native text layer: **147**
-  - via OCR (lower confidence): **61**
+  - via native text layer: **148**
+  - via OCR (lower confidence): **60**
 - Failed / not extracted: **9**
 
 ## Books per grade
@@ -84,7 +84,6 @@ Scope: academic track, grades 1-12 (primary, secondary, 4 high-school branches)
 - code 909 (g9 secondary): عربی (نهم) — 1 ch / 16 lessons
 - code 910 (g9 secondary): انگلیسی (3) — 1 ch / 77 lessons
 - code 911 (g9 secondary): کتاب کار انگلیسی (3) — 1 ch / 38 lessons
-- code 110207 (g10 ensani): عربی، زبان قرآن (1) — 1 ch / 24 lessons
 - code 110226 (g10 maarefi): احکام 1 (پسران) — 1 ch / 15 lessons
 - code 110227 (g10 maarefi): اصول و عقاید (1) — 1 ch / 12 lessons
 - code 110206 (g10 riazi): عربی، زبان قرآن (1) — 1 ch / 40 lessons
