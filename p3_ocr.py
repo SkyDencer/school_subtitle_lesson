@@ -72,40 +72,64 @@ def extract_ocr(pdf_path, grade, branch, subject, book_code, out_path):
         hi = min(PAGE_HI + 1, doc.page_count)
         page_lines = {p: _ocr_lines(doc, p, workdir, keep_trailing=True)
                       for p in range(PAGE_LO, hi)}
-        # Prefer a page that actually shows the فهرست heading; else fall back to the
-        # most TOC-keyword-rich page. Require at least one فهرست OR >=4 keyword lines.
-        def has_toc_heading(p):
-            return any(("فهرست" in t) or ("محتویات" in t) or ("محتويات" in t)
-                       for t in page_lines.get(p, []))
-        toc_pages = [p for p in page_lines if has_toc_heading(p)]
-        if toc_pages:
-            pidx = toc_pages[0]
-        else:
-            scored = sorted(((sum(1 for t in page_lines[p]
-                                  if te._TOC_ENTRY_KW.search(t)), p)
-                             for p in page_lines), reverse=True)
-            if not scored or scored[0][0] < 4:
-                res["status"] = "ocr_no_toc"      # no clear فهرست page -> don't dump a preface
-                return res
-            pidx = scored[0][1]
+        # Page selection: ONLY a page that shows the فهرست/فهرست-مطالب heading itself
+        # is a TOC page. Pages carrying a heading-level پیشگفتار / «سخنی با
+        # دانش‌آموزان» mark are prefaces and are skipped. محتویات alone no longer
+        # qualifies (a preface can carry its own «محتویات» list). If no فهرst page
+        # is found the book is flagged ocr_no_toc instead of dumping preface prose
+        # as fake lessons.
+        def _fahrest(ls):
+            return any(("فهرست" in t) and len(t) <= 14 for t in ls)
+
+        def _preface_mark(ls):
+            for t in ls:
+                tt = t.replace(te._ZWJ, "").replace("\u0640", "")
+                if len(tt) <= 14 and ("پیشگفتار" in tt or "پیش گفتار" in tt
+                                      or "سخنی با دانش" in tt):
+                    return True
+            return False
+
+        def _toc_heading_line(t):
+            nd = te._nd(t)
+            return len(nd) <= 14 and ("فهرس" in nd or nd.startswith("محتویات")
+                                      or nd.startswith("محتويات"))
+
+        toc_pages = [p for p in page_lines
+                     if _fahrest(page_lines[p]) and not _preface_mark(page_lines[p])]
+        if not toc_pages:
+            res["status"] = "ocr_no_toc"      # no فهرst page -> don't dump a preface
+            return res
+        pidx = toc_pages[0]
         # Phase A: wide read — OCR pidx and up to 5 following pages unconditionally
         # Phase B: keep only genuine TOC entry lines (shared filter with the text layer)
         # Phase C: stop at the first continuation page that contributes zero entries
-        # The فهرst page itself (off==0) is always kept — never filter a found فهرst
-        # page to zero lines.
+        # Phase D: stop (close the JSON) once map-legend/timeline junk appears
+        # The فهرst page itself (off==0) is never filtered to zero lines; only its
+        # فهرst heading line(s) are dropped.
         lines = []
         toc_pages = 0
         for off in range(6):
             p = pidx + off
             if p not in page_lines:
                 break
+            pl = [t for t in page_lines[p] if not _toc_heading_line(t)]
             if off == 0:
-                lines.extend(page_lines[p]); toc_pages += 1
+                pl_full = pl
+                pl = te.cut_at_junk_str(pl)
+                lines.extend(pl); toc_pages += 1
+                if pl != pl_full:
+                    break                      # junk under the فهرst list -> close
                 continue
-            pv = [t for t in page_lines[p] if te._is_toc_entry(None, t)]
+            pl_full = pl
+            pl = te.cut_at_junk_str(pl)
+            if te.page_starts_preface_str(pl):
+                break                        # preface body opened -> فهرst is over
+            pv = [t for t in pl if te._is_toc_entry(None, t) or te._keep_fragment(t)]
             if not pv:
                 break
             lines.extend(pv); toc_pages += 1
+            if pl != pl_full:
+                break                          # junk figure under the entries -> close
         chapters, front, back = te.classify([ (None, t, pidx, i*10) for i,t in enumerate(lines) ])
         res.update({"status":"success","chapters":chapters,"front_matter":front,
                     "back_matter":back,"toc_page":pidx+1,"toc_pages":toc_pages,
